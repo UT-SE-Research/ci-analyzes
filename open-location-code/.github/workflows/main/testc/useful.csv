@@ -1,0 +1,19 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/open-location-code/open-location-code/test_data/validityTests.csv,3000,2551,2549,test,uses-checkout,uses-checkout
+1,/home/runner/work/open-location-code/open-location-code/test_data/shortCodeTests.csv,3003,2547,2545,test,uses-checkout,uses-checkout
+2,/home/runner/work/open-location-code/open-location-code/test_data/encoding.csv,2997,2543,2541,test,uses-checkout,uses-checkout
+3,/home/runner/work/open-location-code/open-location-code/test_data/decoding.csv,2994,2539,2537,test,uses-checkout,uses-checkout
+4,/home/runner/work/open-location-code/open-location-code/WORKSPACE,2903,1238,1236,test,uses-checkout,uses-checkout
+5,/home/runner/work/open-location-code/open-location-code/.bazelrc,2838,1189,1187,test,uses-checkout,uses-checkout
+6,/home/runner/work/open-location-code/open-location-code/.github/workflows/script.py,3116,1202,1200,finished,uses-checkout,uses-checkout
+7,/home/runner/work/open-location-code/open-location-code/c/BUILD,2909,1600,1598,test,uses-checkout,uses-checkout
+8,/home/runner/work/open-location-code/open-location-code/c/benchmark/bm-c.c,3048,1616,1614,checkformatting,uses-checkout,uses-checkout
+9,/home/runner/work/open-location-code/open-location-code/c/benchmark/shared.c,3062,1624,1622,checkformatting,uses-checkout,uses-checkout
+10,/home/runner/work/open-location-code/open-location-code/c/clang_check.sh,3100,1628,1626,checkformatting,uses-checkout,uses-checkout
+11,/home/runner/work/open-location-code/open-location-code/c/example.c,3067,1632,1630,checkformatting,uses-checkout,uses-checkout
+12,/home/runner/work/open-location-code/open-location-code/c/openlocationcode_test.cc,2979,1636,1634,test,uses-checkout,uses-checkout
+13,/home/runner/work/open-location-code/open-location-code/c/src/olc.h,3085,1646,1644,checkformatting,uses-checkout,uses-checkout
+14,/home/runner/work/open-location-code/open-location-code/c/src/olc_private.h,3094,1650,1648,checkformatting,uses-checkout,uses-checkout
+15,/home/runner/work/open-location-code/open-location-code/cpp/gtest.BUILD,2929,1689,1687,test,uses-checkout,uses-checkout
+16,/home/runner/work/open-location-code/open-location-code/c/.clang-format,3097,1592,-1,checkformatting,uses-checkout,Not provided
+17,/home/runner/work/open-location-code/open-location-code/c/src/olc.c,3080,1642,-1,checkformatting,uses-checkout,Not provided
