@@ -1,0 +1,6 @@
+,step_name,#c,#m,cma,cm_a,cm__a,c_ma,c_m_a,c_m__a,_cma,_cm_a,_cm__a,_c_ma,_c_m_a,_c_m__a,time
+0,uses-checkout,3662,1721,0,0,1671,0,0,1991,0,0,50,0,185,355,3
+1,SetupJDK11,0,0,0,0,0,0,0,0,0,0,0,0,185,4067,8
+2,uses-cache,0,0,0,0,0,0,0,0,0,0,0,0,185,4067,14
+3,Grantexecutepermissionforgradlew,0,0,0,0,0,0,0,0,0,0,0,0,185,4067,0
+4,BuildwithGradle,464,2531,180,0,284,0,0,0,5,0,2062,0,0,1721,1133
