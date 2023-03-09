@@ -1,0 +1,96 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/mooc-software-testing/mooc-software-testing/target/jacoco.exec,9743,8798,4053,BuildwithMaven,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/mooc-software-testing/mooc-software-testing/target/surefire/surefirebooter15132131864705135973.jar,4057,4034,3967,BuildwithMaven,BuildwithMaven,BuildwithMaven
+2,/home/runner/work/mooc-software-testing/mooc-software-testing/target/surefire/surefire_08143217689079803099tmp,4062,3965,3960,BuildwithMaven,BuildwithMaven,BuildwithMaven
+3,/home/runner/work/mooc-software-testing/mooc-software-testing/target/surefire/surefire15579934105405230221tmp,4059,3958,3953,BuildwithMaven,BuildwithMaven,BuildwithMaven
+4,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/christmas/ChristmasDiscountRefactored.java,10462,1617,1612,BuildwithMaven,uses-checkout,uses-checkout
+5,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/christmas/DefaultClock.java,10469,1633,1628,BuildwithMaven,uses-checkout,uses-checkout
+6,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/christmas/Clock.java,2593,1625,1620,BuildwithMaven,uses-checkout,uses-checkout
+7,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/invoice/Invoice.class,10951,2816,2814,BuildwithMaven,BuildwithMaven,BuildwithMaven
+8,/home/runner/work/mooc-software-testing/mooc-software-testing/pom.xml,11029,1567,1562,BuildwithMaven,uses-checkout,uses-checkout
+9,/home/runner/work/mooc-software-testing/mooc-software-testing/.github/workflows/script.py,11050,1543,1538,finished,uses-checkout,uses-checkout
+10,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/discount/Product.java,10571,1661,1656,BuildwithMaven,uses-checkout,uses-checkout
+11,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/discount/ProductDao.java,2581,1669,1664,BuildwithMaven,uses-checkout,uses-checkout
+12,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/blackjack/BlackJackLineCoverageTest.java,3230,1833,1826,BuildwithMaven,uses-checkout,uses-checkout
+13,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/numfinder/NumFinderMain.java,10367,1799,1794,BuildwithMaven,uses-checkout,uses-checkout
+14,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/invoicemocked/InvoiceFilter.java,10408,1760,1755,BuildwithMaven,uses-checkout,uses-checkout
+15,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/invoicemocked/InvoiceDao.java,10394,1752,1747,BuildwithMaven,uses-checkout,uses-checkout
+16,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/invoice/InvoiceFilter.java,10253,1734,1729,BuildwithMaven,uses-checkout,uses-checkout
+17,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/invoice/InvoiceDao.java,10260,1726,1721,BuildwithMaven,uses-checkout,uses-checkout
+18,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/echo/SystemWrapper.java,10514,1687,1682,BuildwithMaven,uses-checkout,uses-checkout
+19,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/chocolate/ChocolateBagsTest.java,3206,1862,1857,BuildwithMaven,uses-checkout,uses-checkout
+20,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/caesarshift/CaesarShiftCipher.class,10954,2848,2846,BuildwithMaven,BuildwithMaven,BuildwithMaven
+21,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/christmas/ChristmasDiscount.class,10957,2870,2868,BuildwithMaven,BuildwithMaven,BuildwithMaven
+22,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/discount/DiscountApplier.class,10993,2866,2864,BuildwithMaven,BuildwithMaven,BuildwithMaven
+23,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/discount/ProductDao.class,10990,2862,2860,BuildwithMaven,BuildwithMaven,BuildwithMaven
+24,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/roman/RomanNumeralTest.class,4108,3608,3606,BuildwithMaven,BuildwithMaven,BuildwithMaven
+25,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/chocolate/ChocolateBagsBeforeBoundaryTest.class,4087,3651,3649,BuildwithMaven,BuildwithMaven,BuildwithMaven
+26,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/numfinder/NumFinderMain.class,11005,2852,2850,BuildwithMaven,BuildwithMaven,BuildwithMaven
+27,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/chocolate/ChocolateBagsTest2.java,3218,1870,1865,BuildwithMaven,uses-checkout,uses-checkout
+28,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/roman/RomanNumeralTestWithBeforeEach.java,3209,1999,1994,BuildwithMaven,uses-checkout,uses-checkout
+29,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/invoicemocked/InvoiceFilter.class,10975,2834,2832,BuildwithMaven,BuildwithMaven,BuildwithMaven
+30,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/chocolate/ChocolateBagsTest3.java,3254,1878,1873,BuildwithMaven,uses-checkout,uses-checkout
+31,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/roman/RomanNumeral.class,11023,2746,2744,BuildwithMaven,BuildwithMaven,BuildwithMaven
+32,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/invoice/InvoiceFilter.class,10981,2830,2828,BuildwithMaven,BuildwithMaven,BuildwithMaven
+33,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/christmas/ChristmasDiscountRefactored.class,10960,2806,2804,BuildwithMaven,BuildwithMaven,BuildwithMaven
+34,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/invoicemocked/Invoice.class,10978,2802,2800,BuildwithMaven,BuildwithMaven,BuildwithMaven
+35,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/christmas/Clock.class,10963,2792,2790,BuildwithMaven,BuildwithMaven,BuildwithMaven
+36,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/echo/SystemWrapper.class,11008,2770,2768,BuildwithMaven,BuildwithMaven,BuildwithMaven
+37,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/gettingstarted/GettingStarted.class,11014,2754,2752,BuildwithMaven,BuildwithMaven,BuildwithMaven
+38,/home/runner/work/mooc-software-testing/mooc-software-testing/target/maven-archiver/pom.properties,11032,10799,10797,BuildwithMaven,BuildwithMaven,BuildwithMaven
+39,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/sum/TwoNumbersSumTest.class,4081,3667,-1,BuildwithMaven,BuildwithMaven,Not provided
+40,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/countletters/CountLetters.java,10598,1643,-1,BuildwithMaven,uses-checkout,Not provided
+41,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/sum/TwoNumbersSumTest.java,3257,2009,-1,BuildwithMaven,uses-checkout,Not provided
+42,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/roman/RomanNumeralTest.java,3233,1991,-1,BuildwithMaven,uses-checkout,Not provided
+43,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/mirror/MirrorTest.java,3245,1981,-1,BuildwithMaven,uses-checkout,Not provided
+44,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/leapyear/LeapYearTest.java,3203,1971,-1,BuildwithMaven,uses-checkout,Not provided
+45,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/invoicemocked/InvoiceFilterTest.java,3212,1960,-1,BuildwithMaven,uses-checkout,Not provided
+46,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/invoice/InvoiceFilterTest.java,3224,1950,-1,BuildwithMaven,uses-checkout,Not provided
+47,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/ghappy/GHappyTest.java,3251,1940,-1,BuildwithMaven,uses-checkout,Not provided
+48,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/gettingstarted/GettingStartedTest.java,3239,1930,-1,BuildwithMaven,uses-checkout,Not provided
+49,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/echo/EchoTest.java,3242,1920,-1,BuildwithMaven,uses-checkout,Not provided
+50,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/discount/DiscountApplierTest.java,3227,1910,-1,BuildwithMaven,uses-checkout,Not provided
+51,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/countletters/CountLettersTest.java,3221,1900,-1,BuildwithMaven,uses-checkout,Not provided
+52,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/christmas/ChristmasDiscountRefactoredTest.java,3236,1889,-1,BuildwithMaven,uses-checkout,Not provided
+53,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/chocolate/ChocolateBagsBeforeBoundaryTest.java,3248,1854,-1,BuildwithMaven,uses-checkout,Not provided
+54,/home/runner/work/mooc-software-testing/mooc-software-testing/src/test/java/tudelft/caesarshift/CaesarShiftCipherTest.java,3215,1844,-1,BuildwithMaven,uses-checkout,Not provided
+55,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/sum/TwoNumbersSum.java,10439,1820,-1,BuildwithMaven,uses-checkout,Not provided
+56,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/roman/RomanNumeral.java,10314,1809,-1,BuildwithMaven,uses-checkout,Not provided
+57,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/numfinder/NumFinder.java,10360,1791,-1,BuildwithMaven,uses-checkout,Not provided
+58,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/mirror/Mirror.java,10541,1781,-1,BuildwithMaven,uses-checkout,Not provided
+59,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/leapyear/LeapYear.java,10177,1770,-1,BuildwithMaven,uses-checkout,Not provided
+60,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/invoicemocked/Invoice.java,10401,1744,-1,BuildwithMaven,uses-checkout,Not provided
+61,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/invoice/Invoice.java,10246,1718,-1,BuildwithMaven,uses-checkout,Not provided
+62,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/ghappy/GHappy.java,10223,1708,-1,BuildwithMaven,uses-checkout,Not provided
+63,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/gettingstarted/GettingStarted.java,10337,1698,-1,BuildwithMaven,uses-checkout,Not provided
+64,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/echo/Echo.java,10507,1679,-1,BuildwithMaven,uses-checkout,Not provided
+65,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/numfinder/NumFinder.class,11002,2738,-1,BuildwithMaven,BuildwithMaven,Not provided
+66,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/ghappy/GHappyTest.class,4102,3657,-1,BuildwithMaven,BuildwithMaven,Not provided
+67,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/mirror/MirrorTest.class,4111,3647,-1,BuildwithMaven,BuildwithMaven,Not provided
+68,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/echo/EchoTest.class,4096,3641,-1,BuildwithMaven,BuildwithMaven,Not provided
+69,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/gettingstarted/GettingStartedTest.class,4099,3629,-1,BuildwithMaven,BuildwithMaven,Not provided
+70,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/christmas/ChristmasDiscountRefactoredTest.class,4072,3620,-1,BuildwithMaven,BuildwithMaven,Not provided
+71,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/blackjack/BlackJackLineCoverageTest.class,4105,3604,-1,BuildwithMaven,BuildwithMaven,Not provided
+72,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/discount/DiscountApplierTest.class,4084,3595,-1,BuildwithMaven,BuildwithMaven,Not provided
+73,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/invoice/InvoiceFilterTest.class,4066,3589,-1,BuildwithMaven,BuildwithMaven,Not provided
+74,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/countletters/CountLettersTest.class,4093,3574,-1,BuildwithMaven,BuildwithMaven,Not provided
+75,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/caesarshift/CaesarShiftCipherTest.class,4069,3561,-1,BuildwithMaven,BuildwithMaven,Not provided
+76,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/invoicemocked/InvoiceFilterTest.class,4078,3555,-1,BuildwithMaven,BuildwithMaven,Not provided
+77,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/chocolate/ChocolateBagsTest.class,4090,3534,-1,BuildwithMaven,BuildwithMaven,Not provided
+78,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/sum/TwoNumbersSum.class,10984,2760,-1,BuildwithMaven,BuildwithMaven,Not provided
+79,/home/runner/work/mooc-software-testing/mooc-software-testing/target/test-classes/tudelft/leapyear/LeapYearTest.class,4075,3525,-1,BuildwithMaven,BuildwithMaven,Not provided
+80,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/mirror/Mirror.class,11026,2876,-1,BuildwithMaven,BuildwithMaven,Not provided
+81,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/countletters/CountLetters.class,10999,2858,-1,BuildwithMaven,BuildwithMaven,Not provided
+82,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/discount/Product.class,10987,2840,-1,BuildwithMaven,BuildwithMaven,Not provided
+83,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/ghappy/GHappy.class,11017,2822,-1,BuildwithMaven,BuildwithMaven,Not provided
+84,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/invoice/InvoiceDao.class,10948,2812,-1,BuildwithMaven,BuildwithMaven,Not provided
+85,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/invoicemocked/InvoiceDao.class,10972,2798,-1,BuildwithMaven,BuildwithMaven,Not provided
+86,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/christmas/DefaultClock.class,10966,2788,-1,BuildwithMaven,BuildwithMaven,Not provided
+87,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/chocolate/ChocolateBags.class,10996,2782,-1,BuildwithMaven,BuildwithMaven,Not provided
+88,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/blackjack/BlackJack.class,11020,2776,-1,BuildwithMaven,BuildwithMaven,Not provided
+89,/home/runner/work/mooc-software-testing/mooc-software-testing/target/classes/tudelft/echo/Echo.class,11011,2766,-1,BuildwithMaven,BuildwithMaven,Not provided
+90,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/discount/DiscountApplier.java,10564,1653,-1,BuildwithMaven,uses-checkout,Not provided
+91,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/christmas/ChristmasDiscount.java,10476,1609,-1,BuildwithMaven,uses-checkout,Not provided
+92,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/chocolate/ChocolateBags.java,10154,1598,-1,BuildwithMaven,uses-checkout,Not provided
+93,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/caesarshift/CaesarShiftCipher.java,10200,1588,-1,BuildwithMaven,uses-checkout,Not provided
+94,/home/runner/work/mooc-software-testing/mooc-software-testing/src/main/java/tudelft/blackjack/BlackJack.java,10291,1578,-1,BuildwithMaven,uses-checkout,Not provided
