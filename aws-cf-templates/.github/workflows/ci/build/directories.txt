@@ -1,0 +1,137 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  aws-cf-templates 1
+                └──  aws-cf-templates 9
+                    ├──  docs 24
+                    │   ├──  img 28
+                    │   │   ├──  jenkins-demo.gif 0
+                    │   │   ├──  wordpress-ha.png 0
+                    │   │   ├──  vpc-4azs.png 0
+                    │   │   ├──  vpc-3azs.png 0
+                    │   │   ├──  vpc-nat-instance.png 0
+                    │   │   ├──  vpc-nat-gateway.png 0
+                    │   │   ├──  vpc-ssh-bastion.png 0
+                    │   │   ├──  security-auth-proxy-ha-github-orga.png 0
+                    │   │   ├──  example-jenkins.png 0
+                    │   │   ├──  jenkins2-ha-agents.png 0
+                    │   │   ├──  example-ssh-bastion-host.png 0
+                    │   │   ├──  vpc-endpoint-s3.png 0
+                    │   │   ├──  example-vpc.png 0
+                    │   │   ├──  ecs-service-dedicated-alb.png 0
+                    │   │   ├──  ecs-service-cluster-alb.png 0
+                    │   │   ├──  ecs-cluster.png 0
+                    │   │   ├──  vpc-2azs.png 0
+                    │   │   ├──  jenkins2-ha.png 0
+                    │   │   ├──  operations-alert.png 0
+                    │   │   ├──  example-alert.png 0
+                    │   │   ├──  static-website.png 0
+                    │   │   ├──  vpc-vpn-bastion-macos.png 0
+                    │   │   ├──  example-modules.png 0
+                    │   │   ├──  ec2-auto-recovery.png 0
+                    │   │   ├──  cloudformation.png 0
+                    │   │   ├──  launch-stack.png 0
+                    │   │   ├──  vpc-vpn-bastion-windows2.png 0
+                    │   │   └──  vpc-vpn-bastion-windows1.png 0
+                    │   ├──  vpc.md 0
+                    │   ├──  migrate-v11.md 0
+                    │   ├──  ec2.md 0
+                    │   ├──  ecs.md 0
+                    │   ├──  fargate.md 0
+                    │   ├──  index.md 0
+                    │   ├──  jenkins.md 0
+                    │   ├──  migrate-v10.md 0
+                    │   ├──  migrate-v12.md 0
+                    │   ├──  static-website.md 0
+                    │   ├──  wordpress.md 0
+                    │   ├──  migrate-v13.md 0
+                    │   ├──  state.md 0
+                    │   ├──  migrate-v8.md 0
+                    │   ├──  migrate-v14.md 0
+                    │   ├──  migrate-v4.md 0
+                    │   ├──  migrate-v5.md 0
+                    │   ├──  migrate-v7.md 0
+                    │   ├──  migrate-v6.md 0
+                    │   ├──  migrate-v9.md 0
+                    │   ├──  operations.md 0
+                    │   ├──  security.md 0
+                    │   └──  cli.md 0
+                    ├──  test 3
+                    │   ├──  src 1
+                    │   │   └──  test 1
+                    │   │       └──  java 1
+                    │   │           └──  de 1
+                    │   │               └──  widdix 1
+                    │   │                   └──  awscftemplates 15
+                    │   │                       ├──  state 11
+                    │   │                       │   ├──  TestElastiCacheMemcached.java 0
+                    │   │                       │   ├──  TestDynamoDB.java 0
+                    │   │                       │   ├──  TestElasticsearch.java 0
+                    │   │                       │   ├──  TestElastiCacheRedis.java 0
+                    │   │                       │   ├──  TestRDSAurora.java 0
+                    │   │                       │   ├──  TestRDSAuroraServerless.java 0
+                    │   │                       │   ├──  TestRDSAuroraServerlessPostgres.java 0
+                    │   │                       │   ├──  TestRDSMySQL.java 0
+                    │   │                       │   ├──  TestRDSPostgres.java 0
+                    │   │                       │   ├──  TestS3.java 0
+                    │   │                       │   └──  TestDocumentDB.java 0
+                    │   │                       ├──  security 4
+                    │   │                       │   ├──  TestSecurityAuthProxy.java 0
+                    │   │                       │   ├──  TestConfig.java 0
+                    │   │                       │   ├──  TestCloudtrail.java 0
+                    │   │                       │   └──  TestKmsKey.java 0
+                    │   │                       ├──  ACloudFormationTest.java 0
+                    │   │                       ├──  operations 3
+                    │   │                       │   ├──  TestTerraformState.java 0
+                    │   │                       │   ├──  TestAlert.java 0
+                    │   │                       │   └──  TestAccessLogsAnonymizer.java 0
+                    │   │                       ├──  fargate 2
+                    │   │                       │   ├──  TestFargateService.java 0
+                    │   │                       │   └──  TestFargateCluster.java 0
+                    │   │                       ├──  Config.java 0
+                    │   │                       ├──  AAWSTest.java 0
+                    │   │                       ├──  Context.java 0
+                    │   │                       ├──  ec2 2
+                    │   │                       │   ├──  TestAL2MutablePublic.java 0
+                    │   │                       │   └──  TestAL2MutablePrivate.java 0
+                    │   │                       ├──  ecs 2
+                    │   │                       │   ├──  TestECSService.java 0
+                    │   │                       │   └──  TestECSCluster.java 0
+                    │   │                       ├──  ATest.java 0
+                    │   │                       ├──  vpc 16
+                    │   │                       │   ├──  TestVPC3AZsLegacy.java 0
+                    │   │                       │   ├──  TestHostedZone.java 0
+                    │   │                       │   ├──  TestVPC2AZs.java 0
+                    │   │                       │   ├──  TestVPC2AZsLegacy.java 0
+                    │   │                       │   ├──  TestVPC3AZs.java 0
+                    │   │                       │   ├──  TestVPC4AZs.java 0
+                    │   │                       │   ├──  TestVPCVpnBastion.java 0
+                    │   │                       │   ├──  TestVPC4AZsLegacy.java 0
+                    │   │                       │   ├──  TestVPCEndpointDynamoDB.java 0
+                    │   │                       │   ├──  TestVPCEndpointS3.java 0
+                    │   │                       │   ├──  TestVPCFlowLogs.java 0
+                    │   │                       │   ├──  TestVPCFlowLogsS3.java 0
+                    │   │                       │   ├──  TestVPCNatGateway.java 0
+                    │   │                       │   ├──  TestVPCNatInstance.java 0
+                    │   │                       │   ├──  TestVPCSshBastion.java 0
+                    │   │                       │   └──  AVPCTest.java 0
+                    │   │                       ├──  jenkins 1
+                    │   │                       │   └──  TestJenkins.java 0
+                    │   │                       ├──  staticwebsite 1
+                    │   │                       │   └──  TestStaticWebsite.java 0
+                    │   │                       └──  wordpress 1
+                    │   │                           └──  TestWordpressHA.java 0
+                    │   ├──  pom.xml 0
+                    │   └──  README.md 0
+                    ├──  wordpress 1
+                    │   └──  loadtest.js 0
+                    ├──  .github 2
+                    │   ├──  ISSUE_TEMPLATE.md 0
+                    │   └──  PULL_REQUEST_TEMPLATE.md 0
+                    ├──  .gitignore 0
+                    ├──  LICENSE 0
+                    ├──  README.md 0
+                    ├──  setup.py 0
+                    └──  ecs 1
+                        └──  README.md 0
