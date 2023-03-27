@@ -1,0 +1,17 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/open-location-code/open-location-code/test_data/validityTests.csv,2921,2473,2471,test,uses-checkout,uses-checkout
+1,/home/runner/work/open-location-code/open-location-code/test_data/shortCodeTests.csv,2924,2469,2467,test,uses-checkout,uses-checkout
+2,/home/runner/work/open-location-code/open-location-code/test_data/encoding.csv,2918,2465,2463,test,uses-checkout,uses-checkout
+3,/home/runner/work/open-location-code/open-location-code/test_data/decoding.csv,2915,2461,2459,test,uses-checkout,uses-checkout
+4,/home/runner/work/open-location-code/open-location-code/WORKSPACE,2825,1241,1239,test,uses-checkout,uses-checkout
+5,/home/runner/work/open-location-code/open-location-code/.bazelrc,2760,1194,1192,test,uses-checkout,uses-checkout
+6,/home/runner/work/open-location-code/open-location-code/.github/workflows/script.py,3036,1205,1203,finished,uses-checkout,uses-checkout
+7,/home/runner/work/open-location-code/open-location-code/c/benchmark/shared.c,2983,1623,1621,checkformatting,uses-checkout,uses-checkout
+8,/home/runner/work/open-location-code/open-location-code/c/BUILD,2831,1599,1597,test,uses-checkout,uses-checkout
+9,/home/runner/work/open-location-code/open-location-code/c/benchmark/bm-c.c,2969,1615,1613,checkformatting,uses-checkout,uses-checkout
+10,/home/runner/work/open-location-code/open-location-code/c/clang_check.sh,3021,1627,1625,checkformatting,uses-checkout,uses-checkout
+11,/home/runner/work/open-location-code/open-location-code/c/example.c,2988,1631,1629,checkformatting,uses-checkout,uses-checkout
+12,/home/runner/work/open-location-code/open-location-code/c/openlocationcode_test.cc,2900,1635,1633,test,uses-checkout,uses-checkout
+13,/home/runner/work/open-location-code/open-location-code/cpp/gtest.BUILD,2851,1681,1679,test,uses-checkout,uses-checkout
+14,/home/runner/work/open-location-code/open-location-code/c/.clang-format,3018,1591,-1,checkformatting,uses-checkout,Not provided
+15,/home/runner/work/open-location-code/open-location-code/c/src/olc_private.h,3015,1641,-1,checkformatting,uses-checkout,Not provided
