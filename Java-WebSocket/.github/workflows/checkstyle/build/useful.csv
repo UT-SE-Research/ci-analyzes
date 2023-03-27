@@ -1,0 +1,80 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/drafts/Draft_6455.java,2146,1120,1116,CodeStyleCheck,uses-checkout,uses-checkout
+1,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/Base64.java,2000,1367,-1,CodeStyleCheck,uses-checkout,Not provided
+2,/home/runner/work/Java-WebSocket/Java-WebSocket/target/checkstyle-checker.xml,1913,1901,1898,CodeStyleCheck,CodeStyleCheck,CodeStyleCheck
+3,/home/runner/work/Java-WebSocket/Java-WebSocket/target/checkstyle-result.xml,2196,2186,1742,CodeStyleCheck,CodeStyleCheck,CodeStyleCheck
+4,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketImpl.java,2159,1082,1079,CodeStyleCheck,uses-checkout,uses-checkout
+5,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/WebSocketServer.java,2069,1355,1352,CodeStyleCheck,uses-checkout,uses-checkout
+6,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/SSLSocketChannel.java,2014,1057,1054,CodeStyleCheck,uses-checkout,uses-checkout
+7,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/client/WebSocketClient.java,1930,1104,1101,CodeStyleCheck,uses-checkout,uses-checkout
+8,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/FramedataImpl1.java,2104,1252,1250,CodeStyleCheck,uses-checkout,uses-checkout
+9,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/PingFrame.java,2094,1256,1254,CodeStyleCheck,uses-checkout,uses-checkout
+10,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/PongFrame.java,2122,1260,1258,CodeStyleCheck,uses-checkout,uses-checkout
+11,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/TextFrame.java,2113,1264,1262,CodeStyleCheck,uses-checkout,uses-checkout
+12,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/package-info.java,2110,1268,1266,CodeStyleCheck,uses-checkout,uses-checkout
+13,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/ClientHandshakeBuilder.java,1966,1278,1276,CodeStyleCheck,uses-checkout,uses-checkout
+14,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/HandshakeBuilder.java,1945,1282,1280,CodeStyleCheck,uses-checkout,uses-checkout
+15,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/HandshakeImpl1Client.java,1960,1286,1284,CodeStyleCheck,uses-checkout,uses-checkout
+16,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/HandshakeImpl1Server.java,1951,1290,1288,CodeStyleCheck,uses-checkout,uses-checkout
+17,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/Framedata.java,2126,1248,1246,CodeStyleCheck,uses-checkout,uses-checkout
+18,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/InvalidDataException.java,2044,1162,1160,CodeStyleCheck,uses-checkout,uses-checkout
+19,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/DataFrame.java,2116,1244,1242,CodeStyleCheck,uses-checkout,uses-checkout
+20,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/InvalidFrameException.java,2056,1170,1168,CodeStyleCheck,uses-checkout,uses-checkout
+21,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/InvalidHandshakeException.java,2053,1174,1172,CodeStyleCheck,uses-checkout,uses-checkout
+22,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/LimitExceededException.java,2026,1178,1176,CodeStyleCheck,uses-checkout,uses-checkout
+23,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/NotSendableException.java,2050,1182,1180,CodeStyleCheck,uses-checkout,uses-checkout
+24,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/WebsocketNotConnectedException.java,2029,1186,1184,CodeStyleCheck,uses-checkout,uses-checkout
+25,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/WrappedIOException.java,2038,1190,1188,CodeStyleCheck,uses-checkout,uses-checkout
+26,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/package-info.java,2041,1194,1192,CodeStyleCheck,uses-checkout,uses-checkout
+27,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/DefaultExtension.java,1972,1204,1202,CodeStyleCheck,uses-checkout,uses-checkout
+28,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/ControlFrame.java,2101,1240,1238,CodeStyleCheck,uses-checkout,uses-checkout
+29,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/ExtensionRequestData.java,1975,1208,1206,CodeStyleCheck,uses-checkout,uses-checkout
+30,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/IExtension.java,1985,1212,1210,CodeStyleCheck,uses-checkout,uses-checkout
+31,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/package-info.java,1969,1216,1214,CodeStyleCheck,uses-checkout,uses-checkout
+32,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/CloseFrame.java,2098,1232,1230,CodeStyleCheck,uses-checkout,uses-checkout
+33,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/ContinuousFrame.java,2107,1236,1234,CodeStyleCheck,uses-checkout,uses-checkout
+34,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/HandshakedataImpl1.java,1963,1298,1296,CodeStyleCheck,uses-checkout,uses-checkout
+35,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/Handshakedata.java,1948,1294,1292,CodeStyleCheck,uses-checkout,uses-checkout
+36,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/protocols/Protocol.java,2135,1330,1328,CodeStyleCheck,uses-checkout,uses-checkout
+37,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/ServerHandshake.java,1939,1302,1300,CodeStyleCheck,uses-checkout,uses-checkout
+38,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/ServerHandshakeBuilder.java,1942,1306,1304,CodeStyleCheck,uses-checkout,uses-checkout
+39,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/DefaultSSLWebSocketServerFactory.java,2075,1342,1340,CodeStyleCheck,uses-checkout,uses-checkout
+40,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/package-info.java,1957,1310,1308,CodeStyleCheck,uses-checkout,uses-checkout
+41,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/interfaces/package-info.java,2017,1320,1318,CodeStyleCheck,uses-checkout,uses-checkout
+42,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/protocols/package-info.java,2132,1334,1332,CodeStyleCheck,uses-checkout,uses-checkout
+43,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/DefaultWebSocketServerFactory.java,2081,1346,1344,CodeStyleCheck,uses-checkout,uses-checkout
+44,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/SSLParametersWebSocketServerFactory.java,2078,1350,1348,CodeStyleCheck,uses-checkout,uses-checkout
+45,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/package-info.java,2072,1359,1357,CodeStyleCheck,uses-checkout,uses-checkout
+46,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/ByteBufferUtils.java,2009,1371,1369,CodeStyleCheck,uses-checkout,uses-checkout
+47,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/Charsetfunctions.java,2003,1375,1373,CodeStyleCheck,uses-checkout,uses-checkout
+48,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/NamedThreadFactory.java,2006,1379,1377,CodeStyleCheck,uses-checkout,uses-checkout
+49,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/package-info.java,1992,1383,1381,CodeStyleCheck,uses-checkout,uses-checkout
+50,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/InvalidEncodingException.java,2047,1166,1164,CodeStyleCheck,uses-checkout,uses-checkout
+51,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/HandshakeState.java,2181,1132,1130,CodeStyleCheck,uses-checkout,uses-checkout
+52,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/IncompleteHandshakeException.java,2032,1158,1156,CodeStyleCheck,uses-checkout,uses-checkout
+53,/home/runner/work/Java-WebSocket/Java-WebSocket/checkstyle-suppressions.xml,1921,940,938,CodeStyleCheck,uses-checkout,uses-checkout
+54,/home/runner/work/Java-WebSocket/Java-WebSocket/pom.xml,1736,953,951,CodeStyleCheck,uses-checkout,uses-checkout
+55,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/SSLSocketChannel2.java,2163,1061,1059,CodeStyleCheck,uses-checkout,uses-checkout
+56,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/package-info.java,2166,1148,1146,CodeStyleCheck,uses-checkout,uses-checkout
+57,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/Role.java,2169,1144,1142,CodeStyleCheck,uses-checkout,uses-checkout
+58,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/ReadyState.java,2175,1140,1138,CodeStyleCheck,uses-checkout,uses-checkout
+59,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/Opcode.java,2172,1136,1134,CodeStyleCheck,uses-checkout,uses-checkout
+60,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/drafts/package-info.java,2149,1124,1122,CodeStyleCheck,uses-checkout,uses-checkout
+61,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/client/package-info.java,1924,1108,1106,CodeStyleCheck,uses-checkout,uses-checkout
+62,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WrappedByteChannel.java,1936,1094,1092,CodeStyleCheck,uses-checkout,uses-checkout
+63,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketServerFactory.java,2184,1090,1088,CodeStyleCheck,uses-checkout,uses-checkout
+64,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketListener.java,2091,1086,1084,CodeStyleCheck,uses-checkout,uses-checkout
+65,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketFactory.java,2084,1077,1075,CodeStyleCheck,uses-checkout,uses-checkout
+66,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketAdapter.java,2138,1073,1071,CodeStyleCheck,uses-checkout,uses-checkout
+67,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocket.java,2087,1069,1067,CodeStyleCheck,uses-checkout,uses-checkout
+68,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/SocketChannelIOHelper.java,2059,1065,1063,CodeStyleCheck,uses-checkout,uses-checkout
+69,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/AbstractWrappedByteChannel.java,2023,1052,1050,CodeStyleCheck,uses-checkout,uses-checkout
+70,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/protocols/IProtocol.java,2129,1326,-1,CodeStyleCheck,uses-checkout,Not provided
+71,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/interfaces/ISSLChannel.java,2020,1316,-1,CodeStyleCheck,uses-checkout,Not provided
+72,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/ClientHandshake.java,1954,1274,-1,CodeStyleCheck,uses-checkout,Not provided
+73,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/BinaryFrame.java,2119,1228,-1,CodeStyleCheck,uses-checkout,Not provided
+74,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/permessage_deflate/PerMessageDeflateExtension.java,1979,1222,-1,CodeStyleCheck,uses-checkout,Not provided
+75,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/CompressionExtension.java,1982,1200,-1,CodeStyleCheck,uses-checkout,Not provided
+76,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/IncompleteException.java,2035,1154,-1,CodeStyleCheck,uses-checkout,Not provided
+77,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/drafts/Draft.java,2153,1114,-1,CodeStyleCheck,uses-checkout,Not provided
+78,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/AbstractWebSocket.java,1989,1048,-1,CodeStyleCheck,uses-checkout,Not provided
