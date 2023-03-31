@@ -1,0 +1,17 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/pipelines-java/pipelines-java/LICENSE,1187,920,914,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+1,/home/runner/work/pipelines-java/pipelines-java/target/classes/com/microsoft/demo/Demo.class,1984,1581,1579,Autobuild,Autobuild,Autobuild
+2,/home/runner/work/pipelines-java/pipelines-java/src/main/webapp/index.jsp,1931,976,971,Autobuild,Checkoutrepository,Checkoutrepository
+3,/home/runner/work/pipelines-java/pipelines-java/src/main/java/com/microsoft/demo/Demo.java,1591,957,950,Autobuild,Checkoutrepository,Checkoutrepository
+4,/home/runner/work/pipelines-java/pipelines-java/pom.xml,3647,944,939,PerformCodeQLAnalysis,Checkoutrepository,Checkoutrepository
+5,/home/runner/work/pipelines-java/pipelines-java/README.md,1199,936,931,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+6,/home/runner/work/pipelines-java/pipelines-java/LICENSE-CODE,1193,928,923,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+7,/home/runner/work/pipelines-java/pipelines-java/.gitignore,1202,911,906,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+8,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/index.jsp,2189,1932,1929,Autobuild,Autobuild,Autobuild
+9,/home/runner/work/pipelines-java/pipelines-java/.github/workflows/codeql-analysis.yml,1310,895,890,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+10,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/WEB-INF/web.xml,3659,1940,1937,PerformCodeQLAnalysis,Autobuild,Autobuild
+11,/home/runner/work/pipelines-java/pipelines-java/.github/workflows/script.py,3714,903,898,finished,Checkoutrepository,Checkoutrepository
+12,/home/runner/work/pipelines-java/pipelines-java/src/main/webapp/WEB-INF/web.xml,3653,968,-1,PerformCodeQLAnalysis,Checkoutrepository,Not provided
+13,/home/runner/work/pipelines-java/pipelines-java/src/test/java/MyTest.java,1819,987,-1,Autobuild,Checkoutrepository,Not provided
+14,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/WEB-INF/classes/com/microsoft/demo/Demo.class,2200,1987,-1,Autobuild,Autobuild,Not provided
+15,/home/runner/work/pipelines-java/pipelines-java/target/maven-archiver/pom.properties,2236,1995,-1,Autobuild,Autobuild,Not provided
