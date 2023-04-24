@@ -1,0 +1,18 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/open-location-code/open-location-code/test_data/validityTests.csv,3037,2571,2569,test,uses-checkout,uses-checkout
+1,/home/runner/work/open-location-code/open-location-code/test_data/shortCodeTests.csv,3040,2567,2565,test,uses-checkout,uses-checkout
+2,/home/runner/work/open-location-code/open-location-code/test_data/encoding.csv,3034,2563,2561,test,uses-checkout,uses-checkout
+3,/home/runner/work/open-location-code/open-location-code/test_data/decoding.csv,3031,2559,2557,test,uses-checkout,uses-checkout
+4,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode_example.cc,3107,1689,1687,checkformatting,uses-checkout,uses-checkout
+5,/home/runner/work/open-location-code/open-location-code/WORKSPACE,2926,1225,1223,test,uses-checkout,uses-checkout
+6,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode_test.cc,3121,1693,1691,checkformatting,uses-checkout,uses-checkout
+7,/home/runner/work/open-location-code/open-location-code/.bazelrc,2861,1178,1176,test,uses-checkout,uses-checkout
+8,/home/runner/work/open-location-code/open-location-code/.github/workflows/script.py,3138,1189,1187,finished,uses-checkout,uses-checkout
+9,/home/runner/work/open-location-code/open-location-code/cpp/BUILD,2932,1657,1655,test,uses-checkout,uses-checkout
+10,/home/runner/work/open-location-code/open-location-code/cpp/clang_check.sh,3123,1665,1663,checkformatting,uses-checkout,uses-checkout
+11,/home/runner/work/open-location-code/open-location-code/cpp/codearea.cc,3070,1669,1667,checkformatting,uses-checkout,uses-checkout
+12,/home/runner/work/open-location-code/open-location-code/cpp/codearea.h,3079,1673,1671,checkformatting,uses-checkout,uses-checkout
+13,/home/runner/work/open-location-code/open-location-code/cpp/gtest.BUILD,2953,1677,1675,test,uses-checkout,uses-checkout
+14,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode.cc,3092,1681,1679,checkformatting,uses-checkout,uses-checkout
+15,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode.h,3102,1685,1683,checkformatting,uses-checkout,uses-checkout
+16,/home/runner/work/open-location-code/open-location-code/cpp/.clang-format,3119,1649,-1,checkformatting,uses-checkout,Not provided
