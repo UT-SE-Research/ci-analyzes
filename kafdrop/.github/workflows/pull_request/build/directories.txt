@@ -1,0 +1,43 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  kafdrop 1
+                └──  kafdrop 4
+                    ├──  target 6
+                    │   ├──  kafdrop-4.0.0-SNAPSHOT.jar 0
+                    │   ├──  surefire-reports 4
+                    │   │   ├──  TEST-kafdrop.KafdropTest.xml 0
+                    │   │   ├──  TEST-kafdrop.model.ConsumerPartitionVOTest.xml 0
+                    │   │   ├──  kafdrop.model.ConsumerPartitionVOTest.txt 0
+                    │   │   └──  kafdrop.KafdropTest.txt 0
+                    │   ├──  test-classes 3
+                    │   │   ├──  person.proto 0
+                    │   │   ├──  person.desc 0
+                    │   │   └──  sasl-ssl.properties 0
+                    │   ├──  failsafe-reports 1
+                    │   │   └──  TEST-kafdrop.KafdropIT.xml 0
+                    │   ├──  maven-status 1
+                    │   │   └──  maven-compiler-plugin 2
+                    │   │       ├──  compile 1
+                    │   │       │   └──  default-compile 2
+                    │   │       │       ├──  inputFiles.lst 0
+                    │   │       │       └──  createdFiles.lst 0
+                    │   │       └──  testCompile 1
+                    │   │           └──  default-testCompile 2
+                    │   │               ├──  createdFiles.lst 0
+                    │   │               └──  inputFiles.lst 0
+                    │   └──  docker-ready 2
+                    │       ├──  kafdrop.sh 0
+                    │       └──  Dockerfile 0
+                    ├──  .github 1
+                    │   └──  workflows 3
+                    │       ├──  pull_request.yml 0
+                    │       ├──  master.yml 0
+                    │       └──  close_inactive_issues.yml 0
+                    ├──  docs 1
+                    │   └──  images 1
+                    │       └──  overview.png 0
+                    └──  .mvn 1
+                        └──  wrapper 1
+                            └──  maven-wrapper.jar 0
