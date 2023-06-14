@@ -1,0 +1,17 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/pipelines-java/pipelines-java/LICENSE,1149,881,875,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+1,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/index.jsp,2208,1889,1886,Autobuild,Autobuild,Autobuild
+2,/home/runner/work/pipelines-java/pipelines-java/target/classes/com/microsoft/demo/Demo.class,1952,1546,1544,Autobuild,Autobuild,Autobuild
+3,/home/runner/work/pipelines-java/pipelines-java/.github/workflows/codeql-analysis.yml,1274,856,851,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+4,/home/runner/work/pipelines-java/pipelines-java/.github/workflows/script.py,3897,864,859,finished,Checkoutrepository,Checkoutrepository
+5,/home/runner/work/pipelines-java/pipelines-java/src/main/webapp/index.jsp,1888,937,932,Autobuild,Checkoutrepository,Checkoutrepository
+6,/home/runner/work/pipelines-java/pipelines-java/.gitignore,1155,872,867,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+7,/home/runner/work/pipelines-java/pipelines-java/src/main/java/com/microsoft/demo/Demo.java,1556,918,911,Autobuild,Checkoutrepository,Checkoutrepository
+8,/home/runner/work/pipelines-java/pipelines-java/pom.xml,3842,905,900,PerformCodeQLAnalysis,Checkoutrepository,Checkoutrepository
+9,/home/runner/work/pipelines-java/pipelines-java/README.md,1161,897,892,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+10,/home/runner/work/pipelines-java/pipelines-java/target/maven-archiver/pom.properties,2323,1963,1961,Autobuild,Autobuild,Autobuild
+11,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/WEB-INF/web.xml,3830,1897,1894,PerformCodeQLAnalysis,Autobuild,Autobuild
+12,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/WEB-INF/classes/com/microsoft/demo/Demo.class,2244,1953,1950,Autobuild,Autobuild,Autobuild
+13,/home/runner/work/pipelines-java/pipelines-java/LICENSE-CODE,1152,889,884,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+14,/home/runner/work/pipelines-java/pipelines-java/src/main/webapp/WEB-INF/web.xml,3836,929,-1,PerformCodeQLAnalysis,Checkoutrepository,Not provided
+15,/home/runner/work/pipelines-java/pipelines-java/src/test/java/MyTest.java,1776,948,-1,Autobuild,Checkoutrepository,Not provided
