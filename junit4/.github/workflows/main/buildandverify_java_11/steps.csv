@@ -1,0 +1,6 @@
+,step_name,#c,#m,cma,cm_a,cm__a,c_ma,c_m_a,c_m__a,_cma,_cm_a,_cm__a,_c_ma,_c_m_a,_c_m__a,time
+0,uses-checkout,122,133,0,0,122,0,0,0,0,0,11,0,1,1759,1
+1,DownloadMavenDownloadwithdefaultJDKbecauseOpenJDK6doesnotsupportTLS12,0,0,0,0,0,0,0,0,0,0,0,0,1,1892,2
+2,SetupJDK6,0,0,0,0,0,0,0,0,0,0,0,0,1,1892,6
+3,SetupJDK,0,0,0,0,0,0,0,0,0,0,0,0,1,1892,3
+4,Buildandverify,1717,1760,1,0,1716,0,0,0,0,0,43,0,0,133,43
