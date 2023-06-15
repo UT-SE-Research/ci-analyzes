@@ -1,0 +1,10 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/WEB-INF/web.xml,3847,1907,1904,PerformCodeQLAnalysis,Autobuild,Autobuild
+1,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/index.jsp,2205,1899,1896,Autobuild,Autobuild,Autobuild
+2,/home/runner/work/pipelines-java/pipelines-java/target/classes/com/microsoft/demo/Demo.class,1949,1556,1554,Autobuild,Autobuild,Autobuild
+3,/home/runner/work/pipelines-java/pipelines-java/pom.xml,3841,935,930,PerformCodeQLAnalysis,Checkoutrepository,Checkoutrepository
+4,/home/runner/work/pipelines-java/pipelines-java/README.md,1168,927,922,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+5,/home/runner/work/pipelines-java/pipelines-java/LICENSE-CODE,1165,919,914,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+6,/home/runner/work/pipelines-java/pipelines-java/LICENSE,1159,911,906,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+7,/home/runner/work/pipelines-java/pipelines-java/.gitignore,1162,903,898,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+8,/home/runner/work/pipelines-java/pipelines-java/target/maven-archiver/pom.properties,2320,1960,1958,Autobuild,Autobuild,Autobuild
