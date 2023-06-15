@@ -1,0 +1,126 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  webdrivermanager 1
+                └──  webdrivermanager 9
+                    ├──  docs 7
+                    │   ├──  webdrivermanager.pdf 0
+                    │   ├──  img 10
+                    │   │   ├──  wdm-vnc.png 0
+                    │   │   ├──  display-console-logs-example-v3.png 0
+                    │   │   ├──  selenium-webdriver-architecture.png 0
+                    │   │   ├──  info-bg.jpg 0
+                    │   │   ├──  sidebar-bg.jpg 0
+                    │   │   ├──  webdrivermanager.png 0
+                    │   │   ├──  wdm.png 0
+                    │   │   ├──  toc-bg.jpg 0
+                    │   │   ├──  pre-bg.jpg 0
+                    │   │   └──  footer-bg.jpg 0
+                    │   ├──  index.html 0
+                    │   ├──  mirror 3
+                    │   │   ├──  selenium 0
+                    │   │   ├──  operadriver 0
+                    │   │   └──  geckodriver 0
+                    │   ├──  css 2
+                    │   │   ├──  FaceType-PublicaPlay-Regular.woff 0
+                    │   │   └──  styles.css 0
+                    │   ├──  sponsors.html 0
+                    │   └──  carbon.html 0
+                    ├──  target 3
+                    │   ├──  classes 10
+                    │   │   ├──  browserwatcher-csp-1.2.0.crx 0
+                    │   │   ├──  browserwatcher-1.2.0.crx 0
+                    │   │   ├──  browserwatcher-display-1.2.0.crx 0
+                    │   │   ├──  browserwatcher-display-csp-1.2.0.crx 0
+                    │   │   ├──  io 1
+                    │   │   │   └──  github 1
+                    │   │   │       └──  bonigarcia 1
+                    │   │   │           └──  wdm 11
+                    │   │   │               ├──  docker 11
+                    │   │   │               │   ├──  DockerHost.class 0
+                    │   │   │               │   ├──  DockerHubTags.class 0
+                    │   │   │               │   ├──  DockerHubTags$Image.class 0
+                    │   │   │               │   ├──  DockerHubTags$DockerHubTag.class 0
+                    │   │   │               │   ├──  DockerService$3.class 0
+                    │   │   │               │   ├──  DockerService$2.class 0
+                    │   │   │               │   ├──  DockerService$1.class 0
+                    │   │   │               │   ├──  DockerContainer.class 0
+                    │   │   │               │   ├──  DockerContainer$1.class 0
+                    │   │   │               │   ├──  DockerContainer$DockerBuilder.class 0
+                    │   │   │               │   └──  DockerHubService.class 0
+                    │   │   │               ├──  managers 1
+                    │   │   │               │   └──  EdgeDriverManager$1.class 0
+                    │   │   │               ├──  online 3
+                    │   │   │               │   ├──  UrlHandler.class 0
+                    │   │   │               │   ├──  GitHubApi.class 0
+                    │   │   │               │   └──  NpmMirror.class 0
+                    │   │   │               ├──  versions 3
+                    │   │   │               │   ├──  VersionDetector$1.class 0
+                    │   │   │               │   ├──  UrlComparator.class 0
+                    │   │   │               │   └──  VersionComparator.class 0
+                    │   │   │               ├──  WebDriverManager$2.class 0
+                    │   │   │               ├──  webdriver 2
+                    │   │   │               │   ├──  OptionsWithArguments.class 0
+                    │   │   │               │   └──  WebDriverCreator.class 0
+                    │   │   │               ├──  WdmAgent.class 0
+                    │   │   │               ├──  WdmAgent$DefineTransformer.class 0
+                    │   │   │               ├──  WdmServer.class 0
+                    │   │   │               ├──  WdmServer$DesiredCapabilities.class 0
+                    │   │   │               └──  WdmServer$Session.class 0
+                    │   │   ├──  META-INF 1
+                    │   │   │   └──  MANIFEST.MF 0
+                    │   │   ├──  assembly.xml 0
+                    │   │   ├──  logback.xml 0
+                    │   │   ├──  commands.properties 0
+                    │   │   └──  versions.properties 0
+                    │   ├──  maven-status 1
+                    │   │   └──  maven-compiler-plugin 2
+                    │   │       ├──  testCompile 1
+                    │   │       │   └──  default-testCompile 2
+                    │   │       │       ├──  inputFiles.lst 0
+                    │   │       │       └──  createdFiles.lst 0
+                    │   │       └──  compile 1
+                    │   │           └──  default-compile 2
+                    │   │               ├──  createdFiles.lst 0
+                    │   │               └──  inputFiles.lst 0
+                    │   └──  test-classes 2
+                    │       ├──  wdm-test.properties 0
+                    │       └──  io 1
+                    │           └──  github 1
+                    │               └──  bonigarcia 1
+                    │                   └──  wdm 1
+                    │                       └──  test 1
+                    │                           └──  watcher 2
+                    │                               ├──  RecordEdgeTest.class 0
+                    │                               └──  RecordChromeTest.class 0
+                    ├──  src 1
+                    │   └──  doc 1
+                    │       └──  asciidoc 7
+                    │           ├──  img 8
+                    │           │   ├──  wdm-vnc.png 0
+                    │           │   ├──  selenium-webdriver-architecture.png 0
+                    │           │   ├──  display-console-logs-example-v3.png 0
+                    │           │   ├──  info-bg.jpg 0
+                    │           │   ├──  webdrivermanager.png 0
+                    │           │   ├──  wdm.png 0
+                    │           │   ├──  toc-bg.jpg 0
+                    │           │   └──  footer-bg.jpg 0
+                    │           ├──  index.adoc 0
+                    │           ├──  css 2
+                    │           │   ├──  styles.css 0
+                    │           │   └──  FaceType-PublicaPlay-Regular.woff 0
+                    │           ├──  carbon.html 0
+                    │           ├──  sponsors.html 0
+                    │           ├──  docinfo.html 0
+                    │           └──  backers.html 0
+                    ├──  CHANGELOG.md 0
+                    ├──  .github 2
+                    │   ├──  dependabot.yml 0
+                    │   └──  PULL_REQUEST_TEMPLATE.md 0
+                    ├──  .gitignore 0
+                    ├──  LICENSE 0
+                    ├──  README.md 0
+                    └──  docker 2
+                        ├──  push.sh 0
+                        └──  Dockerfile 0
