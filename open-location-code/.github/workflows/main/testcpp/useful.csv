@@ -1,0 +1,18 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/open-location-code/open-location-code/test_data/shortCodeTests.csv,3235,2573,2571,test,uses-checkout,uses-checkout
+1,/home/runner/work/open-location-code/open-location-code/test_data/encoding.csv,3229,2569,2567,test,uses-checkout,uses-checkout
+2,/home/runner/work/open-location-code/open-location-code/test_data/decoding.csv,3226,2565,2563,test,uses-checkout,uses-checkout
+3,/home/runner/work/open-location-code/open-location-code/test_data/validityTests.csv,3232,2577,2575,test,uses-checkout,uses-checkout
+4,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode_test.cc,3316,1722,1720,checkformatting,uses-checkout,uses-checkout
+5,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode.cc,3287,1710,1708,checkformatting,uses-checkout,uses-checkout
+6,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode_example.cc,3302,1718,1716,checkformatting,uses-checkout,uses-checkout
+7,/home/runner/work/open-location-code/open-location-code/WORKSPACE,2928,1256,1254,test,uses-checkout,uses-checkout
+8,/home/runner/work/open-location-code/open-location-code/cpp/openlocationcode.h,3297,1714,1712,checkformatting,uses-checkout,uses-checkout
+9,/home/runner/work/open-location-code/open-location-code/.bazelrc,2863,1209,1207,test,uses-checkout,uses-checkout
+10,/home/runner/work/open-location-code/open-location-code/.github/workflows/script.py,3334,1220,1218,finished,uses-checkout,uses-checkout
+11,/home/runner/work/open-location-code/open-location-code/cpp/BUILD,3132,1686,1684,test,uses-checkout,uses-checkout
+12,/home/runner/work/open-location-code/open-location-code/cpp/clang_check.sh,3318,1694,1692,checkformatting,uses-checkout,uses-checkout
+13,/home/runner/work/open-location-code/open-location-code/cpp/codearea.cc,3265,1698,1696,checkformatting,uses-checkout,uses-checkout
+14,/home/runner/work/open-location-code/open-location-code/cpp/codearea.h,3274,1702,1700,checkformatting,uses-checkout,uses-checkout
+15,/home/runner/work/open-location-code/open-location-code/cpp/gtest.BUILD,3152,1706,1704,test,uses-checkout,uses-checkout
+16,/home/runner/work/open-location-code/open-location-code/cpp/.clang-format,3314,1678,-1,checkformatting,uses-checkout,Not provided
