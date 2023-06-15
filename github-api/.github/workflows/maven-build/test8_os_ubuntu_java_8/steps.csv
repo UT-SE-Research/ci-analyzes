@@ -1,0 +1,5 @@
+,step_name,#c,#m,cma,cm_a,cm__a,c_ma,c_m_a,c_m__a,_cma,_cm_a,_cm__a,_c_ma,_c_m_a,_c_m__a,time
+0,uses-checkout,415,429,0,0,415,0,0,0,0,0,14,0,0,826,2
+1,SetupJDK,0,0,0,0,0,0,0,0,0,0,0,0,0,1255,8
+2,MavenInstallwithCodeCoverage,812,826,0,0,812,0,0,0,0,0,14,0,0,429,241
+3,CodecovReport,0,0,0,0,0,0,0,0,0,0,0,0,0,1255,3
