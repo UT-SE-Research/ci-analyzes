@@ -1,0 +1,166 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  bytecode-viewer 1
+                └──  bytecode-viewer 14
+                    ├──  libs 5
+                    │   ├──  enjarify-4.zip 0
+                    │   ├──  Krakatau-11.zip 0
+                    │   ├──  org 1
+                    │   │   └──  jd 1
+                    │   │       └──  jd-gui 4
+                    │   │           ├──  1.6.6bcv 2
+                    │   │           │   ├──  jd-gui-1.6.6bcv.pom.md5 0
+                    │   │           │   └──  jd-gui-1.6.6bcv.jar.md5 0
+                    │   │           ├──  maven-metadata.xml 0
+                    │   │           ├──  maven-metadata.xml.md5 0
+                    │   │           └──  maven-metadata.xml.sha1 0
+                    │   ├──  README.md 0
+                    │   └──  eu 1
+                    │       └──  bibl 1
+                    │           └──  banalysis 1
+                    │               └──  byteanalysis 4
+                    │                   ├──  1.0bcv 2
+                    │                   │   ├──  byteanalysis-1.0bcv.jar.md5 0
+                    │                   │   └──  byteanalysis-1.0bcv.pom.md5 0
+                    │                   ├──  maven-metadata.xml.sha1 0
+                    │                   ├──  maven-metadata.xml 0
+                    │                   └──  maven-metadata.xml.md5 0
+                    ├──  src 2
+                    │   ├──  main 1
+                    │   │   └──  resources 7
+                    │   │       ├──  enjarify-4.zip 0
+                    │   │       ├──  Krakatau-12.zip 0
+                    │   │       ├──  LICENSES 17
+                    │   │       │   ├──  krakata-license.txt 0
+                    │   │       │   ├──  BCV.txt 0
+                    │   │       │   ├──  jd-gui-license.txt 0
+                    │   │       │   ├──  smali.txt 0
+                    │   │       │   ├──  rsyntaxtextarea-license.txt 0
+                    │   │       │   ├──  procyon-license.txt 0
+                    │   │       │   ├──  jgraphx-license.txt 0
+                    │   │       │   ├──  janino-license.txt 0
+                    │   │       │   ├──  imgscalr-license.txt 0
+                    │   │       │   ├──  fernflower-license.txt 0
+                    │   │       │   ├──  enjarif-license.txt 0
+                    │   │       │   ├──  dex2jar-license.txt 0
+                    │   │       │   ├──  commons-license.txt 0
+                    │   │       │   ├──  byteanalysis-license.txt 0
+                    │   │       │   ├──  apktool-license.txt 0
+                    │   │       │   ├──  cfr-license.txt 0
+                    │   │       │   └──  ASM.txt 0
+                    │   │       ├──  translations 44
+                    │   │       │   ├──  georgian.json 0
+                    │   │       │   ├──  ukrainian.json 0
+                    │   │       │   ├──  spanish.json 0
+                    │   │       │   ├──  slovenian.json 0
+                    │   │       │   ├──  html 3
+                    │   │       │   │   ├──  intro.mandarin.html 0
+                    │   │       │   │   ├──  intro.german.html 0
+                    │   │       │   │   └──  intro.english.html 0
+                    │   │       │   ├──  hungarian.json 0
+                    │   │       │   ├──  indonesian.json 0
+                    │   │       │   ├──  italian.json 0
+                    │   │       │   ├──  japanese.json 0
+                    │   │       │   ├──  javanese.json 0
+                    │   │       │   ├──  korean.json 0
+                    │   │       │   ├──  lativan.json 0
+                    │   │       │   ├──  lithuanian.json 0
+                    │   │       │   ├──  malay.json 0
+                    │   │       │   ├──  mandarin.json 0
+                    │   │       │   ├──  nederlands.json 0
+                    │   │       │   ├──  norwegian.json 0
+                    │   │       │   ├──  polish.json 0
+                    │   │       │   ├──  portuguese.json 0
+                    │   │       │   ├──  serbian.json 0
+                    │   │       │   ├──  hindi.json 0
+                    │   │       │   ├──  english.json 0
+                    │   │       │   ├──  bengali.json 0
+                    │   │       │   ├──  bulgarian.json 0
+                    │   │       │   ├──  croatian.json 0
+                    │   │       │   ├──  czech.json 0
+                    │   │       │   ├──  danish.json 0
+                    │   │       │   ├──  estonian.json 0
+                    │   │       │   ├──  hebrew.json 0
+                    │   │       │   ├──  farsi.json 0
+                    │   │       │   ├──  finnish.json 0
+                    │   │       │   ├──  french.json 0
+                    │   │       │   ├──  german.json 0
+                    │   │       │   ├──  greek.json 0
+                    │   │       │   ├──  hausa.json 0
+                    │   │       │   ├──  slovak.json 0
+                    │   │       │   ├──  swahili.json 0
+                    │   │       │   ├──  vietnamese.json 0
+                    │   │       │   ├──  turkish.json 0
+                    │   │       │   ├──  russian.json 0
+                    │   │       │   ├──  thai.json 0
+                    │   │       │   ├──  swedish.json 0
+                    │   │       │   ├──  romanian.json 0
+                    │   │       │   └──  arabic.json 0
+                    │   │       ├──  gui 14
+                    │   │       │   ├──  decodedResource.svg 0
+                    │   │       │   ├──  cs.svg 0
+                    │   │       │   ├──  bat.svg 0
+                    │   │       │   ├──  jarDirectory.svg 0
+                    │   │       │   ├──  cpp.svg 0
+                    │   │       │   ├──  config.svg 0
+                    │   │       │   ├──  java.svg 0
+                    │   │       │   ├──  next.svg 0
+                    │   │       │   ├──  bcv_icon.png 0
+                    │   │       │   ├──  javaClass.svg 0
+                    │   │       │   ├──  archive.svg 0
+                    │   │       │   ├──  previous.svg 0
+                    │   │       │   ├──  package.svg 0
+                    │   │       │   └──  android.svg 0
+                    │   │       ├──  templates 2
+                    │   │       │   ├──  Template_Plugin.js 0
+                    │   │       │   └──  Template_Plugin.java 0
+                    │   │       └──  the 1
+                    │   │           └──  bytecode 1
+                    │   │               └──  club 1
+                    │   │                   └──  bytecodeviewer 1
+                    │   │                       └──  gui 1
+                    │   │                           └──  hexviewer 1
+                    │   │                               └──  resources 1
+                    │   │                                   └──  bined-linewrap.png 0
+                    │   └──  test 1
+                    │       └──  java 1
+                    │           └──  the 1
+                    │               └──  bytecode 1
+                    │                   └──  club 1
+                    │                       └──  bytecodeviewer 1
+                    │                           └──  IconDemo.java 0
+                    ├──  LICENSE 0
+                    ├──  plugins 5
+                    │   ├──  javascript 3
+                    │   │   ├──  Skeleton.js 0
+                    │   │   ├──  ExampleStringDecrypter.js 0
+                    │   │   └──  ExamplePrintClassesPlugin.js 0
+                    │   ├──  groovy 2
+                    │   │   ├──  Skeleton.gy 0
+                    │   │   └──  ExampleStringDecrypter.gy 0
+                    │   ├──  java 3
+                    │   │   ├──  Skeleton.java 0
+                    │   │   ├──  XposedGenerator.java 0
+                    │   │   └──  ExampleStringDecrypter.java 0
+                    │   ├──  python 1
+                    │   │   └──  skeleton.py 0
+                    │   └──  ruby 1
+                    │       └──  Skeleton.rb 0
+                    ├──  CREDITS.md 0
+                    ├──  CONTRIBUTING.md 0
+                    ├──  BCV Icon.png 0
+                    ├──  BCV Icon.ico 0
+                    ├──  .gitignore 0
+                    ├──  .github 1
+                    │   └──  workflows 1
+                    │       └──  maven.yml 0
+                    ├──  SECURITY.md 0
+                    ├──  README.md 0
+                    ├──  VERSION 0
+                    └──  install 4
+                        ├──  _uninstall BCV.bat 0
+                        ├──  jar2exe_config.j2e 0
+                        ├──  launch4j_config.xml 0
+                        └──  _install BCV.bat 0
