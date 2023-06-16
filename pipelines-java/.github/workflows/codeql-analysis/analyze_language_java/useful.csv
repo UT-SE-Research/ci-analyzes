@@ -1,0 +1,17 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/pipelines-java/pipelines-java/LICENSE,1206,829,823,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+1,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/WEB-INF/classes/com/microsoft/demo/Demo.class,2182,1909,1906,Autobuild,Autobuild,Autobuild
+2,/home/runner/work/pipelines-java/pipelines-java/.github/workflows/codeql-analysis.yml,1222,804,799,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+3,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/index.jsp,2164,1845,1842,Autobuild,Autobuild,Autobuild
+4,/home/runner/work/pipelines-java/pipelines-java/.github/workflows/script.py,3853,812,807,finished,Checkoutrepository,Checkoutrepository
+5,/home/runner/work/pipelines-java/pipelines-java/target/helloworld/WEB-INF/web.xml,3798,1853,1850,PerformCodeQLAnalysis,Autobuild,Autobuild
+6,/home/runner/work/pipelines-java/pipelines-java/.gitignore,1210,820,815,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+7,/home/runner/work/pipelines-java/pipelines-java/LICENSE-CODE,1205,837,832,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+8,/home/runner/work/pipelines-java/pipelines-java/README.md,1212,845,840,InitializeCodeQL,Checkoutrepository,Checkoutrepository
+9,/home/runner/work/pipelines-java/pipelines-java/pom.xml,3792,853,848,PerformCodeQLAnalysis,Checkoutrepository,Checkoutrepository
+10,/home/runner/work/pipelines-java/pipelines-java/src/main/java/com/microsoft/demo/Demo.java,1504,866,859,Autobuild,Checkoutrepository,Checkoutrepository
+11,/home/runner/work/pipelines-java/pipelines-java/src/main/webapp/WEB-INF/web.xml,3786,878,873,PerformCodeQLAnalysis,Checkoutrepository,Checkoutrepository
+12,/home/runner/work/pipelines-java/pipelines-java/src/main/webapp/index.jsp,1844,886,881,Autobuild,Checkoutrepository,Checkoutrepository
+13,/home/runner/work/pipelines-java/pipelines-java/target/classes/com/microsoft/demo/Demo.class,1908,1494,1492,Autobuild,Autobuild,Autobuild
+14,/home/runner/work/pipelines-java/pipelines-java/target/maven-archiver/pom.properties,2279,1919,1917,Autobuild,Autobuild,Autobuild
+15,/home/runner/work/pipelines-java/pipelines-java/src/test/java/MyTest.java,1732,897,-1,Autobuild,Checkoutrepository,Not provided
