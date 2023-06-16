@@ -1,0 +1,252 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/browserwatcher-display-csp-1.2.0.crx,2585,1731,1719,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+1,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/browserwatcher-display-1.2.0.crx,2678,1717,1705,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+2,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/browserwatcher-csp-1.2.0.crx,2481,1703,1691,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+3,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/browserwatcher-1.2.0.crx,2771,1689,1678,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+4,/home/runner/work/webdrivermanager/webdrivermanager/target/surefire/surefire-20230616002429257_1tmp,5811,5766,5758,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+5,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/config/Config.java,3089,1534,1530,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+6,/home/runner/work/webdrivermanager/webdrivermanager/target/surefire/surefirebooter-20230616002429257_3.jar,5806,5781,5775,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+7,/home/runner/work/webdrivermanager/webdrivermanager/target/surefire/surefire_0-20230616002429257_2tmp,5814,5773,5768,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+8,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/WebDriverManager.java,3107,1512,1509,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+9,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/docker/DockerService.java,3098,1573,1570,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+10,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerFirefoxDevTest.class,6285,5152,5150,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+11,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/online/HttpClient$1.class,6514,3288,3286,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+12,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/config/WebDriverManagerException.class,6459,3264,3262,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+13,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerSeveralBrowsersDifferentVersionsTest.class,6328,5148,5146,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+14,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/online/Downloader.class,6523,3284,3282,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+15,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/online/HttpClient$2.class,6517,3292,3290,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+16,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/WebDriverManager$1.class,6475,3342,3340,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+17,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/versions/VersionFilterTest.class,6093,5136,5134,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+18,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/cache/CacheHandler.class,6499,3354,3352,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+19,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/WebDriverManager.class,6023,3350,3348,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+20,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/managers/EdgeDriverManager.class,6466,3338,3336,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+21,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/online/HttpClient.class,6505,3296,3294,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+22,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/cache/CacheTest.class,6217,5144,5142,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+23,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/online/UrlHandler.class,6692,3316,3314,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+24,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/versions/VersionDetector.class,6599,3312,3310,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+25,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/config/DriverManagerType$1.class,6608,3256,3254,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+26,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/versions/Shell.class,6626,3304,3302,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+27,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/config/DriverManagerType.class,5874,3260,3258,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+28,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/versions/BrowserVersionTest.java,4210,2062,2060,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+29,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/config/Architecture.class,5992,3252,3250,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+30,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/config/ConfigKey.class,6494,3248,3246,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+31,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/RecordChromeTest.java,4249,2120,2118,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+32,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/GatherLogsHeadlessChromeTest.java,4312,2116,2114,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+33,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/GatherLogsFirefoxTest.java,4399,2112,2110,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+34,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/GatherLogsChromeTest.java,4327,2108,2106,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+35,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/DockerGatherLogsFirefoxTest.java,4447,2104,2102,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+36,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/DockerGatherLogsChromeTest.java,4384,2100,2098,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+37,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/DisplayLogsFirefoxTest.java,4435,2096,2094,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+38,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/DisplayLogsChromeTest.java,4438,2092,2090,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+39,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/instance/WebDriverTest.class,5861,5176,5174,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+40,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/versions/VersionsTest.java,4255,2082,2080,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+41,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/versions/VersionFilterTest.java,4363,2078,2076,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+42,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/versions/LatestAndBetaTest.java,4432,2074,2072,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+43,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/versions/IgnoredVersionTest.java,4291,2070,2068,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+44,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/versions/CurrentVersionTest.java,4378,2066,2064,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+45,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/server/ServerSeleniumTest.java,4336,2053,2051,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+46,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/chrome/ChromeBetaWindowsTest.class,6001,5180,5178,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+47,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/RecordEdgeTest.java,4453,2124,2122,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+48,/home/runner/work/webdrivermanager/webdrivermanager/src/test/resources/logback-test.xml,3585,2133,2131,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+49,/home/runner/work/webdrivermanager/webdrivermanager/src/test/resources/wdm-test.properties,3599,2137,2135,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+50,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/webdrivermanager.properties,7077,2382,2379,finished,RuntestsonLinux,RuntestsonLinux
+51,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/config/Config.class,6490,3244,3242,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+52,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/config/OperatingSystem.class,5906,3240,3238,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+53,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/cache/ResolutionCache.class,6571,3232,3230,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+54,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/cache/ResolutionCache$1.class,6575,3228,3226,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+55,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/docker/DockerService.class,5227,3388,3386,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+56,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/generic/GenericTest.class,6238,5160,5158,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+57,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/versions/CurrentVersionTest.class,6063,5164,5162,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+58,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerChromeVncTest.class,6364,5168,5166,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+59,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/watcher/DockerGatherLogsChromeTest.class,5971,5172,5170,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+60,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/webdriver/WebDriverBrowser.class,7074,3392,3390,finished,RuntestsonLinux,RuntestsonLinux
+61,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerChromeBetaTest.class,6386,5004,5002,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+62,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/chrome/ChromeArmTest.class,6013,5036,5034,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+63,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/forced/ForceDownloadTest.class,5910,5032,5030,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+64,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/mirror/MirrorTest.class,5977,5028,5026,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+65,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerFirefoxTest.class,6292,5020,5018,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+66,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/versions/IgnoredVersionTest.class,6078,5016,5014,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+67,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/firefox/FirefoxVersionTest.class,6120,5012,5010,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+68,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/opera/OperaCreateTest.class,6268,5008,5006,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+69,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/edge/EdgeMacTest.class,6170,5000,4998,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+70,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/firefox/FirefoxArmTest.class,6107,4996,4994,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+71,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/firefox/Firefox90Test.class,6114,4992,4990,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+72,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/create/ChromeListCreateTest.class,5836,4984,4982,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+73,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/edge/EdgeArmTest.class,6163,4980,4978,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+74,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/create/ChromeRemoteTest.class,5830,4976,4974,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+75,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/opera/OperaOptionsTest.class,6261,4968,4966,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+76,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/versions/VersionsTest.class,6070,4960,4958,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+77,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/edge/EdgeTest.class,6156,5040,5038,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+78,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/instance/NewInstanceFromDriverTypeTest.class,5854,5048,5046,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+79,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/watcher/GatherLogsHeadlessChromeTest.class,5957,5052,5050,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+80,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/edge/EdgeVersionTest.class,6140,5056,5054,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+81,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/path/BrowserPathTest.class,6231,5124,5122,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+82,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/other/NamespaceContextTest.class,6034,5116,5114,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+83,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/other/NamespaceContextTest$1.class,6026,5112,5110,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+84,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/other/NamespaceContextTest$TestWebDriverManager.class,6049,5108,5106,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+85,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/chrome/ChromeBetaTest.class,6007,5104,5102,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+86,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/create/ChromeCapabilitiesCreateTest.class,5821,5100,5098,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+87,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerCustomImageTest.class,6343,5096,5094,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+88,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/opera/OperaTest.class,6275,5092,5090,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+89,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/server/ServerSeleniumTest.class,6423,5088,5086,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+90,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerChromeRecordingTest.class,6313,5084,5082,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+91,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/create/ChromeCreateTest.class,5842,5080,5078,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+92,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/watcher/GatherLogsChromeTest.class,5965,5076,5074,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+93,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/forced/ForceError403Test.class,5895,5072,5070,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+94,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/server/ServerResolverTest.class,6415,5068,5066,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+95,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/forced/ForceDockerTest.class,5878,5060,5058,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+96,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/other/LocalPropertiesTest.class,6038,4956,4954,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+97,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/forced/ForceOsTest.class,5891,4940,4938,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+98,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/managers/OperaDriverManager.class,6463,3396,3394,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+99,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/managers/FirefoxDriverManager.class,6456,3444,3442,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+100,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/properties/PropertiesTest.java,4231,2033,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+101,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/managers/InternetExplorerDriverManager.class,6472,3428,3426,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+102,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/forced/ForceOsTest$1.class,5884,4936,4934,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+103,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/managers/ChromeDriverManager.class,6447,3416,3414,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+104,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/managers/ChromiumDriverManager.class,6469,3412,3410,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+105,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/managers/VoidDriverManager.class,6453,3408,3406,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+106,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/managers/SafariDriverManager.class,6450,3404,3402,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+107,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/online/S3NamespaceContext.class,6482,3400,3398,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+108,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/logback-test.xml,6478,3586,3583,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+109,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/junit-platform.properties,6444,3593,3590,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+110,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/iexplorer/IExplorerVersionTest.class,6187,4928,4926,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+111,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/chromium/ChromiumTest.class,6438,4924,4922,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+112,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/edge/EdgeLatestVersionTest.class,6148,4916,4914,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+113,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/base/VersionTestParent.class,5986,4912,4910,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+114,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/chrome/ChromeVersionTest.class,5983,4904,4902,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+115,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/properties/PropertiesTest.class,6180,4896,4894,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+116,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerSeveralBrowsersTest.class,6372,4888,4886,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+117,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/iexplorer/IExplorerTest.class,6201,4873,4871,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+118,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/cli/CliResolveDriverTest.class,6407,4865,4863,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+119,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/cli/CliDockerTest.class,6400,4861,4859,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+120,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerChromeListTest.class,6335,4853,4851,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+121,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerSafariTest.class,6379,4849,4847,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+122,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/versions/BrowserVersionTest.class,6085,4841,4839,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+123,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/edge/EdgeReadVersionTest.class,6134,4833,4831,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+124,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/safari/SafariTest.class,5848,4825,4823,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+125,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/versions/BrowserVersionDetectionTest.class,6100,5184,5182,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+126,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/forced/ForceOsTest.java,4246,1950,1948,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+127,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/cache/CustomCacheTest.class,6209,5188,5186,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+128,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/WdmAgent.java,3110,1503,1499,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+129,/home/runner/work/webdrivermanager/webdrivermanager/pom.xml,2331,1400,1398,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+130,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/WdmServer.java,3101,1507,1505,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+131,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/cache/ResolutionCache.java,3008,1522,1520,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+132,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/chrome/ChromeTest.class,5995,5275,5273,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+133,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/managers/SafariDriverManager.java,3056,1603,1601,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+134,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/managers/OperaDriverManager.java,3050,1599,1597,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+135,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/managers/InternetExplorerDriverManager.java,3083,1595,1593,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+136,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/managers/FirefoxDriverManager.java,3104,1591,1589,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+137,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/managers/EdgeDriverManager.java,3041,1587,1585,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+138,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/managers/ChromiumDriverManager.java,3062,1583,1581,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+139,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerOperaTest.class,6357,5267,5265,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+140,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/docker/DockerHubTags.java,3038,1568,1566,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+141,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/docker/DockerHubService.java,3113,1564,1562,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+142,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/docker/DockerHost.java,3023,1560,1558,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+143,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/watcher/DockerGatherLogsFirefoxTest.class,5918,5271,5269,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+144,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/config/WebDriverManagerException.java,3014,1550,1548,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+145,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/config/OperatingSystem.java,3065,1546,1544,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+146,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/config/DriverManagerType.java,3011,1542,1540,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+147,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/config/ConfigKey.java,3059,1538,1536,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+148,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/other/NamespaceContextTest.java,4351,2020,2018,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+149,/home/runner/work/webdrivermanager/webdrivermanager/.github/workflows/script.py,7061,1154,1152,finished,CheckoutGitHubrepo,CheckoutGitHubrepo
+150,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/managers/VoidDriverManager.java,3095,1607,1605,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+151,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/generic/GenericCreateTest.class,6246,5263,5261,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+152,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/online/GitHubApi.java,3029,1617,1615,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+153,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/firefox/FirefoxVersionTest.java,4288,1932,1930,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+154,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/firefox/FirefoxArmTest.java,4273,1924,1922,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+155,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerExecCommandInContainerTest.class,6350,5231,5229,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+156,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/edge/EdgeVersionTest.java,4315,1914,1912,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+157,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/edge/EdgeTest.java,4306,1910,1908,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+158,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/edge/EdgeReadVersionTest.java,4207,1906,1904,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+159,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/edge/EdgeMacTest.java,4276,1902,1900,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+160,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/edge/EdgeLatestVersionTest.java,4237,1898,1896,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+161,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerSeveralBrowsersTest.java,4228,1889,1887,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+162,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerSeveralBrowsersDifferentVersionsTest.java,4369,1885,1883,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+163,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerSafariTest.java,4213,1881,1879,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+164,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerOperaTest.java,4444,1877,1875,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+165,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerFirefoxTest.java,4294,1873,1871,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+166,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerFirefoxDevTest.java,4372,1869,1867,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+167,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerExecCommandInContainerTest.java,4417,1865,1863,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+168,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerEdgeTest.java,4357,1861,1859,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+169,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/firefox/FirefoxTest.java,4408,1928,1926,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+170,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/cache/ResolutionCacheTest.class,6224,5216,5214,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+171,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/online/HttpClient.java,3068,1621,1619,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+172,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/forced/ForceDownloadTest.java,4300,1942,1940,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+173,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/opera/OperaTest.java,4339,2012,2010,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+174,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/opera/OperaOptionsTest.java,4258,2008,2006,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+175,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/watcher/GatherLogsFirefoxTest.class,5926,5192,5190,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+176,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/generic/GenericBrowserNameTest.class,6254,5196,5194,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+177,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/instance/WebDriverTest.java,4387,1992,1990,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+178,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/instance/NewInstanceFromDriverTypeTest.java,4309,1988,1986,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+179,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/iexplorer/IExplorerArchTest.class,6194,5200,5198,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+180,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/iexplorer/IExplorerVersionTest.java,4243,1978,1976,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+181,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/iexplorer/IExplorerTest.java,4225,1974,1972,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+182,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/firefox/FirefoxTest.class,6127,5204,5202,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+183,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/generic/GenericTest.java,4375,1964,1962,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+184,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/generic/GenericCreateTest.java,4441,1960,1958,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+185,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/proxy/ProxyTest.class,6430,5212,5210,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+186,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/watcher/DisableCspFirefoxTest.class,5941,5132,5130,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+187,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/forced/ForceError403Test.java,4324,1946,1944,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+188,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerCustomImageTest.java,4342,1857,1855,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+189,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerChromeVncTest.java,4381,1853,1851,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+190,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerChromeVersionsTest.java,4420,1849,1847,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+191,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/webdriver/WebDriverBrowser.java,3116,1661,1659,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+192,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/webdrivermanager.properties,2381,1747,1745,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+193,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/versions.properties,2360,1743,1741,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+194,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/logback.xml,2374,1739,1737,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+195,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/commands.properties,2367,1735,1733,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+196,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/assembly.xml,2388,1676,1674,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+197,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/versions/LatestAndBetaTest.class,6056,5251,5249,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+198,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/webdriver/WebDriverCreator.java,3086,1665,1663,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+199,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/watcher/DisplayLogsFirefoxTest.class,5934,5255,5253,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+200,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerChromeTest.java,4426,1845,1843,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+201,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/versions/VersionDetector.java,3032,1651,1649,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+202,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/versions/VersionComparator.java,3080,1647,1645,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+203,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/versions/UrlComparator.java,3020,1643,1641,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+204,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/watcher/DisplayLogsChromeTest.class,5949,5259,5257,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+205,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/online/UrlHandler.java,3035,1633,1631,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+206,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/online/S3NamespaceContext.java,3053,1629,1627,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+207,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/online/NpmMirror.java,3017,1625,1623,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+208,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/base/VersionTestParent.java,4279,1754,1752,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+209,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/cache/CustomCacheTest.java,4396,1764,1762,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+210,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/cache/ResolutionCacheTest.java,4414,1768,1766,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+211,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerChromeMobileTest.class,6299,5247,5245,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+212,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerChromeRecordingTest.java,4333,1841,1839,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+213,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerChromeMobileTest.java,4429,1837,1835,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+214,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/docker/DockerChromeListTest.java,4216,1833,1831,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+215,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/create/ChromeRemoteTest.java,4261,1824,1822,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+216,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/create/ChromeListCreateTest.java,4267,1820,1818,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+217,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/create/ChromeCreateTest.java,4330,1816,1814,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+218,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerChromeVersionsTest.class,6306,5235,5233,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+219,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/cli/CliResolveDriverTest.java,4222,1806,1804,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+220,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/instance/DriverManagerTypeTest.class,5867,5239,5237,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+221,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerChromeTest.class,6320,5243,5241,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+222,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/chrome/ChromeVersionTest.java,4234,1790,1788,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+223,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/chrome/ChromeTest.java,4450,1786,1784,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+224,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/chrome/ChromeBetaWindowsTest.java,4390,1782,1780,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+225,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/chrome/ChromeBetaTest.java,4348,1778,1776,RuntestsonLinux,CheckoutGitHubrepo,CheckoutGitHubrepo
+226,/home/runner/work/webdrivermanager/webdrivermanager/target/test-classes/io/github/bonigarcia/wdm/test/docker/DockerEdgeTest.class,6393,5128,5126,RuntestsonLinux,RuntestsonLinux,RuntestsonLinux
+227,/home/runner/work/webdrivermanager/webdrivermanager/target/classes/io/github/bonigarcia/wdm/webdriver/WebDriverCreator.class,6743,3360,-1,RuntestsonLinux,RuntestsonLinux,Not provided
+228,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/chrome/ChromeArmTest.java,4303,1774,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+229,/home/runner/work/webdrivermanager/webdrivermanager/src/main/resources/META-INF/MANIFEST.MF,2492,1670,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+230,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/webdriver/OptionsWithArguments.java,3077,1657,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+231,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/versions/Shell.java,3044,1639,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+232,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/online/Downloader.java,3026,1613,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+233,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/managers/ChromeDriverManager.java,3074,1579,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+234,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/docker/DockerContainer.java,3092,1556,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+235,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/config/Architecture.java,3071,1528,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+236,/home/runner/work/webdrivermanager/webdrivermanager/src/main/java/io/github/bonigarcia/wdm/cache/CacheHandler.java,3047,1518,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+237,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/chromium/ChromiumTest.java,4240,1796,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+238,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/cli/CliDockerTest.java,4219,1802,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+239,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/create/ChromeCapabilitiesCreateTest.java,4345,1812,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+240,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/safari/SafariTest.java,4204,2045,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+241,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/watcher/DisableCspFirefoxTest.java,4360,2088,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+242,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/proxy/ProxyTest.java,4411,2039,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+243,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/firefox/Firefox90Test.java,4270,1920,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+244,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/path/BrowserPathTest.java,4354,2026,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+245,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/opera/OperaCreateTest.java,4285,2004,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+246,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/mirror/MirrorTest.java,4297,1998,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+247,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/instance/DriverManagerTypeTest.java,4423,1984,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+248,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/iexplorer/IExplorerArchTest.java,4405,1970,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+249,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/generic/GenericBrowserNameTest.java,4402,1956,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
+250,/home/runner/work/webdrivermanager/webdrivermanager/src/test/java/io/github/bonigarcia/wdm/test/forced/ForceDockerTest.java,4318,1938,-1,RuntestsonLinux,CheckoutGitHubrepo,Not provided
