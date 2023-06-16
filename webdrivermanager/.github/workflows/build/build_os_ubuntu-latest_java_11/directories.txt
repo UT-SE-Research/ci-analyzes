@@ -1,0 +1,237 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  webdrivermanager 1
+                └──  webdrivermanager 9
+                    ├──  docs 8
+                    │   ├──  webdrivermanager.pdf 0
+                    │   ├──  img 10
+                    │   │   ├──  wdm-vnc.png 0
+                    │   │   ├──  display-console-logs-example-v3.png 0
+                    │   │   ├──  selenium-webdriver-architecture.png 0
+                    │   │   ├──  pre-bg.jpg 0
+                    │   │   ├──  sidebar-bg.jpg 0
+                    │   │   ├──  info-bg.jpg 0
+                    │   │   ├──  footer-bg.jpg 0
+                    │   │   ├──  toc-bg.jpg 0
+                    │   │   ├──  wdm.png 0
+                    │   │   └──  webdrivermanager.png 0
+                    │   ├──  index.html 0
+                    │   ├──  mirror 3
+                    │   │   ├──  selenium 0
+                    │   │   ├──  geckodriver 0
+                    │   │   └──  operadriver 0
+                    │   ├──  css 2
+                    │   │   ├──  styles.css 0
+                    │   │   └──  FaceType-PublicaPlay-Regular.woff 0
+                    │   ├──  carbon.html 0
+                    │   ├──  sponsors.html 0
+                    │   └──  backers.html 0
+                    ├──  src 3
+                    │   ├──  doc 1
+                    │   │   └──  asciidoc 6
+                    │   │       ├──  img 8
+                    │   │       │   ├──  wdm-vnc.png 0
+                    │   │       │   ├──  display-console-logs-example-v3.png 0
+                    │   │       │   ├──  selenium-webdriver-architecture.png 0
+                    │   │       │   ├──  info-bg.jpg 0
+                    │   │       │   ├──  webdrivermanager.png 0
+                    │   │       │   ├──  footer-bg.jpg 0
+                    │   │       │   ├──  toc-bg.jpg 0
+                    │   │       │   └──  wdm.png 0
+                    │   │       ├──  index.adoc 0
+                    │   │       ├──  css 2
+                    │   │       │   ├──  styles.css 0
+                    │   │       │   └──  FaceType-PublicaPlay-Regular.woff 0
+                    │   │       ├──  sponsors.html 0
+                    │   │       ├──  carbon.html 0
+                    │   │       └──  docinfo.html 0
+                    │   ├──  main 2
+                    │   │   ├──  resources 9
+                    │   │   │   ├──  browserwatcher-display-1.2.0.crx 0
+                    │   │   │   ├──  browserwatcher-csp-1.2.0.crx 0
+                    │   │   │   ├──  browserwatcher-1.2.0.crx 0
+                    │   │   │   ├──  browserwatcher-display-csp-1.2.0.crx 0
+                    │   │   │   ├──  versions.properties 0
+                    │   │   │   ├──  commands.properties 0
+                    │   │   │   ├──  logback.xml 0
+                    │   │   │   ├──  webdrivermanager.properties 0
+                    │   │   │   └──  assembly.xml 0
+                    │   │   └──  java 1
+                    │   │       └──  io 1
+                    │   │           └──  github 1
+                    │   │               └──  bonigarcia 1
+                    │   │                   └──  wdm 10
+                    │   │                       ├──  WebDriverManager.java 0
+                    │   │                       ├──  config 6
+                    │   │                       │   ├──  Config.java 0
+                    │   │                       │   ├──  ConfigKey.java 0
+                    │   │                       │   ├──  DriverManagerType.java 0
+                    │   │                       │   ├──  OperatingSystem.java 0
+                    │   │                       │   ├──  WebDriverManagerException.java 0
+                    │   │                       │   └──  Architecture.java 0
+                    │   │                       ├──  docker 5
+                    │   │                       │   ├──  DockerService.java 0
+                    │   │                       │   ├──  DockerHost.java 0
+                    │   │                       │   ├──  DockerHubService.java 0
+                    │   │                       │   ├──  DockerHubTags.java 0
+                    │   │                       │   └──  DockerContainer.java 0
+                    │   │                       ├──  versions 4
+                    │   │                       │   ├──  VersionComparator.java 0
+                    │   │                       │   ├──  UrlComparator.java 0
+                    │   │                       │   ├──  VersionDetector.java 0
+                    │   │                       │   └──  Shell.java 0
+                    │   │                       ├──  online 6
+                    │   │                       │   ├──  GitHubApi.java 0
+                    │   │                       │   ├──  NpmMirror.java 0
+                    │   │                       │   ├──  S3NamespaceContext.java 0
+                    │   │                       │   ├──  UrlHandler.java 0
+                    │   │                       │   ├──  HttpClient.java 0
+                    │   │                       │   └──  Downloader.java 0
+                    │   │                       ├──  webdriver 3
+                    │   │                       │   ├──  WebDriverBrowser.java 0
+                    │   │                       │   ├──  WebDriverCreator.java 0
+                    │   │                       │   └──  OptionsWithArguments.java 0
+                    │   │                       ├──  managers 8
+                    │   │                       │   ├──  VoidDriverManager.java 0
+                    │   │                       │   ├──  SafariDriverManager.java 0
+                    │   │                       │   ├──  OperaDriverManager.java 0
+                    │   │                       │   ├──  ChromiumDriverManager.java 0
+                    │   │                       │   ├──  EdgeDriverManager.java 0
+                    │   │                       │   ├──  FirefoxDriverManager.java 0
+                    │   │                       │   ├──  InternetExplorerDriverManager.java 0
+                    │   │                       │   └──  ChromeDriverManager.java 0
+                    │   │                       ├──  cache 2
+                    │   │                       │   ├──  ResolutionCache.java 0
+                    │   │                       │   └──  CacheHandler.java 0
+                    │   │                       ├──  WdmServer.java 0
+                    │   │                       └──  WdmAgent.java 0
+                    │   └──  test 2
+                    │       ├──  java 1
+                    │       │   └──  io 1
+                    │       │       └──  github 1
+                    │       │           └──  bonigarcia 1
+                    │       │               └──  wdm 1
+                    │       │                   └──  test 22
+                    │       │                       ├──  chrome 5
+                    │       │                       │   ├──  ChromeVersionTest.java 0
+                    │       │                       │   ├──  ChromeTest.java 0
+                    │       │                       │   ├──  ChromeBetaWindowsTest.java 0
+                    │       │                       │   ├──  ChromeBetaTest.java 0
+                    │       │                       │   └──  ChromeArmTest.java 0
+                    │       │                       ├──  cache 3
+                    │       │                       │   ├──  CustomCacheTest.java 0
+                    │       │                       │   ├──  ResolutionCacheTest.java 0
+                    │       │                       │   └──  CacheTest.java 0
+                    │       │                       ├──  versions 7
+                    │       │                       │   ├──  VersionsTest.java 0
+                    │       │                       │   ├──  VersionFilterTest.java 0
+                    │       │                       │   ├──  LatestAndBetaTest.java 0
+                    │       │                       │   ├──  BrowserVersionTest.java 0
+                    │       │                       │   ├──  CurrentVersionTest.java 0
+                    │       │                       │   ├──  IgnoredVersionTest.java 0
+                    │       │                       │   └──  BrowserVersionDetectionTest.java 0
+                    │       │                       ├──  watcher 9
+                    │       │                       │   ├──  DisplayLogsChromeTest.java 0
+                    │       │                       │   ├──  DockerGatherLogsFirefoxTest.java 0
+                    │       │                       │   ├──  DockerGatherLogsChromeTest.java 0
+                    │       │                       │   ├──  DisplayLogsFirefoxTest.java 0
+                    │       │                       │   ├──  GatherLogsChromeTest.java 0
+                    │       │                       │   ├──  GatherLogsHeadlessChromeTest.java 0
+                    │       │                       │   ├──  RecordEdgeTest.java 0
+                    │       │                       │   ├──  RecordChromeTest.java 0
+                    │       │                       │   └──  GatherLogsFirefoxTest.java 0
+                    │       │                       ├──  base 1
+                    │       │                       │   └──  VersionTestParent.java 0
+                    │       │                       ├──  edge 6
+                    │       │                       │   ├──  EdgeLatestVersionTest.java 0
+                    │       │                       │   ├──  EdgeReadVersionTest.java 0
+                    │       │                       │   ├──  EdgeTest.java 0
+                    │       │                       │   ├──  EdgeVersionTest.java 0
+                    │       │                       │   ├──  EdgeMacTest.java 0
+                    │       │                       │   └──  EdgeArmTest.java 0
+                    │       │                       ├──  firefox 4
+                    │       │                       │   ├──  FirefoxArmTest.java 0
+                    │       │                       │   ├──  FirefoxTest.java 0
+                    │       │                       │   ├──  FirefoxVersionTest.java 0
+                    │       │                       │   └──  Firefox90Test.java 0
+                    │       │                       ├──  forced 4
+                    │       │                       │   ├──  ForceDownloadTest.java 0
+                    │       │                       │   ├──  ForceError403Test.java 0
+                    │       │                       │   ├──  ForceOsTest.java 0
+                    │       │                       │   └──  ForceDockerTest.java 0
+                    │       │                       ├──  server 1
+                    │       │                       │   └──  ServerSeleniumTest.java 0
+                    │       │                       ├──  generic 3
+                    │       │                       │   ├──  GenericCreateTest.java 0
+                    │       │                       │   ├──  GenericTest.java 0
+                    │       │                       │   └──  GenericBrowserNameTest.java 0
+                    │       │                       ├──  iexplorer 3
+                    │       │                       │   ├──  IExplorerTest.java 0
+                    │       │                       │   ├──  IExplorerVersionTest.java 0
+                    │       │                       │   └──  IExplorerArchTest.java 0
+                    │       │                       ├──  properties 1
+                    │       │                       │   └──  PropertiesTest.java 0
+                    │       │                       ├──  instance 3
+                    │       │                       │   ├──  NewInstanceFromDriverTypeTest.java 0
+                    │       │                       │   ├──  WebDriverTest.java 0
+                    │       │                       │   └──  DriverManagerTypeTest.java 0
+                    │       │                       ├──  opera 2
+                    │       │                       │   ├──  OperaOptionsTest.java 0
+                    │       │                       │   └──  OperaTest.java 0
+                    │       │                       ├──  docker 15
+                    │       │                       │   ├──  DockerSeveralBrowsersTest.java 0
+                    │       │                       │   ├──  DockerChromeListTest.java 0
+                    │       │                       │   ├──  DockerChromeMobileTest.java 0
+                    │       │                       │   ├──  DockerChromeRecordingTest.java 0
+                    │       │                       │   ├──  DockerChromeTest.java 0
+                    │       │                       │   ├──  DockerChromeVersionsTest.java 0
+                    │       │                       │   ├──  DockerChromeVncTest.java 0
+                    │       │                       │   ├──  DockerCustomImageTest.java 0
+                    │       │                       │   ├──  DockerEdgeTest.java 0
+                    │       │                       │   ├──  DockerExecCommandInContainerTest.java 0
+                    │       │                       │   ├──  DockerFirefoxDevTest.java 0
+                    │       │                       │   ├──  DockerFirefoxTest.java 0
+                    │       │                       │   ├──  DockerOperaTest.java 0
+                    │       │                       │   ├──  DockerSafariTest.java 0
+                    │       │                       │   └──  DockerSeveralBrowsersDifferentVersionsTest.java 0
+                    │       │                       ├──  cli 2
+                    │       │                       │   ├──  CliResolveDriverTest.java 0
+                    │       │                       │   └──  CliDockerTest.java 0
+                    │       │                       ├──  create 4
+                    │       │                       │   ├──  ChromeCreateTest.java 0
+                    │       │                       │   ├──  ChromeListCreateTest.java 0
+                    │       │                       │   ├──  ChromeRemoteTest.java 0
+                    │       │                       │   └──  ChromeCapabilitiesCreateTest.java 0
+                    │       │                       ├──  other 1
+                    │       │                       │   └──  NamespaceContextTest.java 0
+                    │       │                       ├──  proxy 1
+                    │       │                       │   └──  ProxyTest.java 0
+                    │       │                       ├──  path 1
+                    │       │                       │   └──  BrowserPathTest.java 0
+                    │       │                       ├──  mirror 1
+                    │       │                       │   └──  MirrorTest.java 0
+                    │       │                       └──  chromium 1
+                    │       │                           └──  ChromiumTest.java 0
+                    │       └──  resources 3
+                    │           ├──  wdm-test.properties 0
+                    │           ├──  logback-test.xml 0
+                    │           └──  junit-platform.properties 0
+                    ├──  CHANGELOG.md 0
+                    ├──  .github 5
+                    │   ├──  FUNDING.yml 0
+                    │   ├──  ISSUE_TEMPLATE.md 0
+                    │   ├──  PULL_REQUEST_TEMPLATE.md 0
+                    │   ├──  dependabot.yml 0
+                    │   └──  workflows 3
+                    │       ├──  build.yml 0
+                    │       ├──  mirror.yml 0
+                    │       └──  auto-merge.yml 0
+                    ├──  .gitignore 0
+                    ├──  README.md 0
+                    ├──  docker 2
+                    │   ├──  push.sh 0
+                    │   └──  Dockerfile 0
+                    ├──  LICENSE 0
+                    └──  pom.xml 0
