@@ -1,0 +1,368 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/Java-WebSocket/Java-WebSocket/target/surefire/surefirebooter6184142367812887948.jar,15267,15237,15181,Buildandanalyze,Buildandanalyze,Buildandanalyze
+1,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/autobahn/AutobahnServerResultsTest.java,13661,9115,-1,Buildandanalyze,uses-checkout,Not provided
+2,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/drafts/Draft_6455.java,10428,8828,8824,Buildandanalyze,uses-checkout,uses-checkout
+3,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/SSLSocketChannel.java,10587,8764,8761,Buildandanalyze,uses-checkout,uses-checkout
+4,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/Base64.java,10551,9079,-1,Buildandanalyze,uses-checkout,Not provided
+5,/home/runner/work/Java-WebSocket/Java-WebSocket/target/surefire/surefire1481595851764804130tmp,15272,15172,15167,Buildandanalyze,Buildandanalyze,Buildandanalyze
+6,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/client/WebSocketClient.java,10614,8812,8809,Buildandanalyze,uses-checkout,uses-checkout
+7,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/protocols/ProtocolHandshakeRejectionTest.java,13718,9391,9388,Buildandanalyze,uses-checkout,uses-checkout
+8,/home/runner/work/Java-WebSocket/Java-WebSocket/target/surefire/surefire_013846978791117267801tmp,15269,15179,15174,Buildandanalyze,Buildandanalyze,Buildandanalyze
+9,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/drafts/Draft_6455Test.java,13814,9144,9141,Buildandanalyze,uses-checkout,uses-checkout
+10,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketImpl.java,10410,8789,8786,Buildandanalyze,uses-checkout,uses-checkout
+11,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/WebSocketServer.java,10446,9067,9064,Buildandanalyze,uses-checkout,uses-checkout
+12,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/util/Base64.class,15915,10995,10993,Buildandanalyze,Buildandanalyze,Buildandanalyze
+13,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/server/SSLParametersWebSocketServerFactory.class,14689,10987,10985,Buildandanalyze,Buildandanalyze,Buildandanalyze
+14,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/PongFrame.class,15789,10983,10981,Buildandanalyze,Buildandanalyze,Buildandanalyze
+15,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/CloseFrame.class,15796,10979,10977,Buildandanalyze,Buildandanalyze,Buildandanalyze
+16,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/InvalidFrameException.class,15809,10929,10927,Buildandanalyze,Buildandanalyze,Buildandanalyze
+17,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/LimitExceededException.class,15891,10933,10931,Buildandanalyze,Buildandanalyze,Buildandanalyze
+18,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/protocols/Protocol.class,15894,10975,10973,Buildandanalyze,Buildandanalyze,Buildandanalyze
+19,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/DataFrame.class,15786,10967,10965,Buildandanalyze,Buildandanalyze,Buildandanalyze
+20,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/util/NamedThreadFactory.class,15950,10971,10969,Buildandanalyze,Buildandanalyze,Buildandanalyze
+21,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/handshake/HandshakedataImpl1.class,15911,10937,10935,Buildandanalyze,Buildandanalyze,Buildandanalyze
+22,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/WrappedByteChannel.class,14142,10941,10939,Buildandanalyze,Buildandanalyze,Buildandanalyze
+23,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/handshake/HandshakeImpl1Client.class,15908,10945,10943,Buildandanalyze,Buildandanalyze,Buildandanalyze
+24,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/BinaryFrame.class,15792,10963,10961,Buildandanalyze,Buildandanalyze,Buildandanalyze
+25,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/util/ByteBufferUtils.class,15802,10959,10957,Buildandanalyze,Buildandanalyze,Buildandanalyze
+26,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/extensions/CompressionExtension.class,14121,10949,10947,Buildandanalyze,Buildandanalyze,Buildandanalyze
+27,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/util/Base64$OutputStream.class,15918,10991,10989,Buildandanalyze,Buildandanalyze,Buildandanalyze
+28,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/SSLSocketChannel$1.class,11448,11019,11017,Buildandanalyze,Buildandanalyze,Buildandanalyze
+29,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/IncompleteHandshakeException.class,15882,10999,10997,Buildandanalyze,Buildandanalyze,Buildandanalyze
+30,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/SSLSocketChannel2.class,11454,11003,11001,Buildandanalyze,Buildandanalyze,Buildandanalyze
+31,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/client/AttachmentTest$2.class,15722,14230,14228,Buildandanalyze,Buildandanalyze,Buildandanalyze
+32,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/extensions/PerMessageDeflateExtensionTest.class,15670,14812,14810,Buildandanalyze,Buildandanalyze,Buildandanalyze
+33,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/util/SocketUtil.class,15876,14220,14218,Buildandanalyze,Buildandanalyze,Buildandanalyze
+34,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/server/CustomSSLWebSocketServerFactoryTest.class,15748,14216,14214,Buildandanalyze,Buildandanalyze,Buildandanalyze
+35,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/server/DefaultSSLWebSocketServerFactoryTest$CustomWebSocketAdapter.class,15775,14816,14814,Buildandanalyze,Buildandanalyze,Buildandanalyze
+36,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue941Test.class,15413,14196,14194,Buildandanalyze,Buildandanalyze,Buildandanalyze
+37,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue941Test$2.class,15416,14192,14190,Buildandanalyze,Buildandanalyze,Buildandanalyze
+38,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/server/DefaultSSLWebSocketServerFactoryTest.class,15772,14824,14822,Buildandanalyze,Buildandanalyze,Buildandanalyze
+39,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/NotSendableException.class,15885,11067,11065,Buildandanalyze,Buildandanalyze,Buildandanalyze
+40,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/client/WebSocketClient.class,15351,11063,11061,Buildandanalyze,Buildandanalyze,Buildandanalyze
+41,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/client/WebSocketClient$WebsocketWriteThread.class,15921,11059,11057,Buildandanalyze,Buildandanalyze,Buildandanalyze
+42,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/client/WebSocketClient$1.class,15902,11055,11053,Buildandanalyze,Buildandanalyze,Buildandanalyze
+43,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/InvalidEncodingException.class,14647,11051,11049,Buildandanalyze,Buildandanalyze,Buildandanalyze
+44,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/handshake/HandshakeImpl1Server.class,15924,11047,11045,Buildandanalyze,Buildandanalyze,Buildandanalyze
+45,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/SocketChannelIOHelper.class,11457,11043,11041,Buildandanalyze,Buildandanalyze,Buildandanalyze
+46,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/TextFrame.class,15783,11039,11037,Buildandanalyze,Buildandanalyze,Buildandanalyze
+47,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/ContinuousFrame.class,15799,11035,11033,Buildandanalyze,Buildandanalyze,Buildandanalyze
+48,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/client/DnsResolver.class,15357,11031,11029,Buildandanalyze,Buildandanalyze,Buildandanalyze
+49,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/SSLSocketChannel.class,11451,11023,11021,Buildandanalyze,Buildandanalyze,Buildandanalyze
+50,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/extensions/ExtensionRequestData.class,11553,11015,11013,Buildandanalyze,Buildandanalyze,Buildandanalyze
+51,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/AbstractWrappedByteChannel.class,11445,11011,11009,Buildandanalyze,Buildandanalyze,Buildandanalyze
+52,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/WebsocketNotConnectedException.class,15316,11007,11005,Buildandanalyze,Buildandanalyze,Buildandanalyze
+53,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/IncompleteException.class,15888,10925,10923,Buildandanalyze,Buildandanalyze,Buildandanalyze
+54,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue847Test$2.class,15563,14832,14830,Buildandanalyze,Buildandanalyze,Buildandanalyze
+55,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/drafts/Draft_6455.class,15326,10921,10919,Buildandanalyze,Buildandanalyze,Buildandanalyze
+56,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/client/HeadersTest.class,15703,14852,14850,Buildandanalyze,Buildandanalyze,Buildandanalyze
+57,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/WebSocketListener.class,15289,10769,10767,Buildandanalyze,Buildandanalyze,Buildandanalyze
+58,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/WebSocketAdapter.class,15286,10765,10763,Buildandanalyze,Buildandanalyze,Buildandanalyze
+59,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/WebSocketFactory.class,15313,10761,10759,Buildandanalyze,Buildandanalyze,Buildandanalyze
+60,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/WebSocketServerFactory.class,15319,10757,10755,Buildandanalyze,Buildandanalyze,Buildandanalyze
+61,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/server/DefaultSSLWebSocketServerFactory.class,14115,10753,10751,Buildandanalyze,Buildandanalyze,Buildandanalyze
+62,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/exceptions/InvalidDataExceptionTest.class,15688,14856,14854,Buildandanalyze,Buildandanalyze,Buildandanalyze
+63,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/util/CharsetfunctionsTest.class,15736,14860,14858,Buildandanalyze,Buildandanalyze,Buildandanalyze
+64,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/protocols/ProtocolTest.class,15725,14864,14862,Buildandanalyze,Buildandanalyze,Buildandanalyze
+65,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/drafts/Draft_6455Test.class,15780,14888,14886,Buildandanalyze,Buildandanalyze,Buildandanalyze
+66,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/resources/org/java_websocket/AutobahnClient.feature,13155,9460,9456,Buildandanalyze,uses-checkout,uses-checkout
+67,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/drafts/Draft_6455$TranslatedPayloadMetaData.class,11496,10917,10915,Buildandanalyze,Buildandanalyze,Buildandanalyze
+68,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/util/ThreadCheck.java,13592,9451,9449,Buildandanalyze,uses-checkout,uses-checkout
+69,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/util/SocketUtil.java,13604,9447,9445,Buildandanalyze,uses-checkout,uses-checkout
+70,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/util/SSLContextUtil.java,13664,9443,9441,Buildandanalyze,uses-checkout,uses-checkout
+71,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/util/KeyUtils.java,13595,9439,9437,Buildandanalyze,uses-checkout,uses-checkout
+72,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/util/CharsetfunctionsTest.java,13808,9435,9433,Buildandanalyze,uses-checkout,uses-checkout
+73,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/util/ByteBufferUtilsTest.java,13703,9431,9429,Buildandanalyze,uses-checkout,uses-checkout
+74,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue764Test$1.class,15644,14892,14890,Buildandanalyze,Buildandanalyze,Buildandanalyze
+75,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/server/WebSocketServerTest.java,13748,9421,9419,Buildandanalyze,uses-checkout,uses-checkout
+76,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/server/SSLParametersWebSocketServerFactoryTest.java,13757,9417,9415,Buildandanalyze,uses-checkout,uses-checkout
+77,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/server/DefaultWebSocketServerFactoryTest.java,13670,9413,9411,Buildandanalyze,uses-checkout,uses-checkout
+78,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/server/DefaultSSLWebSocketServerFactoryTest.java,13796,9409,9407,Buildandanalyze,uses-checkout,uses-checkout
+79,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/server/CustomSSLWebSocketServerFactoryTest.java,13601,9405,9403,Buildandanalyze,uses-checkout,uses-checkout
+80,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue764Test$MyWebSocketServer.class,15647,14896,14894,Buildandanalyze,Buildandanalyze,Buildandanalyze
+81,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/server/WebSocketServer$WebSocketWorker$1.class,15947,10779,10777,Buildandanalyze,Buildandanalyze,Buildandanalyze
+82,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/server/WebSocketServer$WebSocketWorker.class,15943,10783,10781,Buildandanalyze,Buildandanalyze,Buildandanalyze
+83,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/server/WebSocketServer.class,15280,10787,10785,Buildandanalyze,Buildandanalyze,Buildandanalyze
+84,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/WebSocketImpl.class,15345,10791,10789,Buildandanalyze,Buildandanalyze,Buildandanalyze
+85,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/server/DefaultWebSocketServerFactory.class,15938,10913,10911,Buildandanalyze,Buildandanalyze,Buildandanalyze
+86,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/extensions/IExtension.class,15375,10909,10907,Buildandanalyze,Buildandanalyze,Buildandanalyze
+87,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/extensions/DefaultExtension.class,15898,10905,10903,Buildandanalyze,Buildandanalyze,Buildandanalyze
+88,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/framing/FramedataImpl1Test.class,15384,14808,14806,Buildandanalyze,Buildandanalyze,Buildandanalyze
+89,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/server/CustomSSLWebSocketServerFactory.class,14199,10891,10889,Buildandanalyze,Buildandanalyze,Buildandanalyze
+90,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/FramedataImpl1.class,15341,10887,10885,Buildandanalyze,Buildandanalyze,Buildandanalyze
+91,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/FramedataImpl1$1.class,15815,10883,10881,Buildandanalyze,Buildandanalyze,Buildandanalyze
+92,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/ControlFrame.class,15338,10879,10877,Buildandanalyze,Buildandanalyze,Buildandanalyze
+93,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/PingFrame.class,15335,10875,10873,Buildandanalyze,Buildandanalyze,Buildandanalyze
+94,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/enums/CloseHandshakeType.class,14154,10871,10869,Buildandanalyze,Buildandanalyze,Buildandanalyze
+95,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/handshake/ServerHandshakeBuilder.class,15292,10867,10865,Buildandanalyze,Buildandanalyze,Buildandanalyze
+96,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/enums/HandshakeState.class,15927,10863,10861,Buildandanalyze,Buildandanalyze,Buildandanalyze
+97,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/handshake/ServerHandshake.class,15301,10859,10857,Buildandanalyze,Buildandanalyze,Buildandanalyze
+98,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/WrappedIOException.class,15310,10855,10853,Buildandanalyze,Buildandanalyze,Buildandanalyze
+99,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue847Test.class,15560,14836,14834,Buildandanalyze,Buildandanalyze,Buildandanalyze
+100,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/InvalidHandshakeException.class,15369,10845,10843,Buildandanalyze,Buildandanalyze,Buildandanalyze
+101,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/handshake/HandshakeBuilder.class,15295,10841,10839,Buildandanalyze,Buildandanalyze,Buildandanalyze
+102,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/handshake/ClientHandshakeBuilder.class,15354,10837,10835,Buildandanalyze,Buildandanalyze,Buildandanalyze
+103,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/enums/Opcode.class,15360,10833,10831,Buildandanalyze,Buildandanalyze,Buildandanalyze
+104,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/client/HeadersTest$1.class,15706,14840,14838,Buildandanalyze,Buildandanalyze,Buildandanalyze
+105,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/client/HeadersTest$2.class,15709,14844,14842,Buildandanalyze,Buildandanalyze,Buildandanalyze
+106,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/handshake/Handshakedata.class,15298,10817,10815,Buildandanalyze,Buildandanalyze,Buildandanalyze
+107,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/client/HeadersTest$3.class,15713,14848,14846,Buildandanalyze,Buildandanalyze,Buildandanalyze
+108,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/enums/Role.class,15905,10807,10805,Buildandanalyze,Buildandanalyze,Buildandanalyze
+109,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/AbstractWebSocket.class,15283,10803,10801,Buildandanalyze,Buildandanalyze,Buildandanalyze
+110,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/AbstractWebSocket$1.class,15953,10799,10797,Buildandanalyze,Buildandanalyze,Buildandanalyze
+111,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/WebSocket.class,15307,10795,10793,Buildandanalyze,Buildandanalyze,Buildandanalyze
+112,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/client/AttachmentTest.class,15716,14234,14232,Buildandanalyze,Buildandanalyze,Buildandanalyze
+113,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue962Test$TestSocketFactory.class,15515,14244,14242,Buildandanalyze,Buildandanalyze,Buildandanalyze
+114,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1203Test$3.class,15619,14640,14638,Buildandanalyze,Buildandanalyze,Buildandanalyze
+115,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1203Test$1.class,15613,14632,14630,Buildandanalyze,Buildandanalyze,Buildandanalyze
+116,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/framing/PingFrameTest.class,15396,14628,14626,Buildandanalyze,Buildandanalyze,Buildandanalyze
+117,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/framing/PongFrameTest.class,15393,14624,14622,Buildandanalyze,Buildandanalyze,Buildandanalyze
+118,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue256Test.class,15472,14617,14615,Buildandanalyze,Buildandanalyze,Buildandanalyze
+119,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue256Test$2.class,15478,14613,14611,Buildandanalyze,Buildandanalyze,Buildandanalyze
+120,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue256Test$1.class,15475,14609,14607,Buildandanalyze,Buildandanalyze,Buildandanalyze
+121,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue713Test.class,15566,14601,14599,Buildandanalyze,Buildandanalyze,Buildandanalyze
+122,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue713Test$2.class,15572,14593,14591,Buildandanalyze,Buildandanalyze,Buildandanalyze
+123,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue713Test$1.class,15569,14589,14587,Buildandanalyze,Buildandanalyze,Buildandanalyze
+124,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1160Test.class,15500,14585,14583,Buildandanalyze,Buildandanalyze,Buildandanalyze
+125,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1160Test$2.class,15509,14581,14579,Buildandanalyze,Buildandanalyze,Buildandanalyze
+126,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1160Test$1.class,15503,14577,14575,Buildandanalyze,Buildandanalyze,Buildandanalyze
+127,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1160Test$TestClient.class,15506,14573,14571,Buildandanalyze,Buildandanalyze,Buildandanalyze
+128,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/protocols/ProtocolHandshakeRejectionTest.class,15729,14569,14567,Buildandanalyze,Buildandanalyze,Buildandanalyze
+129,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/protocols/ProtocolHandshakeRejectionTest$2.class,15733,14561,14559,Buildandanalyze,Buildandanalyze,Buildandanalyze
+130,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue811Test.class,15422,14553,14551,Buildandanalyze,Buildandanalyze,Buildandanalyze
+131,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue621Test.class,15598,14541,14539,Buildandanalyze,Buildandanalyze,Buildandanalyze
+132,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue621Test$2.class,15604,14537,14535,Buildandanalyze,Buildandanalyze,Buildandanalyze
+133,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue621Test$1.class,15607,14533,14531,Buildandanalyze,Buildandanalyze,Buildandanalyze
+134,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue621Test$TestPrintStream.class,15601,14529,14527,Buildandanalyze,Buildandanalyze,Buildandanalyze
+135,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/framing/TextFrameTest.class,15378,14525,14523,Buildandanalyze,Buildandanalyze,Buildandanalyze
+136,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1203Test$2.class,15616,14636,14634,Buildandanalyze,Buildandanalyze,Buildandanalyze
+137,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1203Test.class,15610,14644,14642,Buildandanalyze,Buildandanalyze,Buildandanalyze
+138,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue962Test$1.class,15518,14248,14246,Buildandanalyze,Buildandanalyze,Buildandanalyze
+139,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/exceptions/InvalidEncodingExceptionTest.class,15673,14651,14649,Buildandanalyze,Buildandanalyze,Buildandanalyze
+140,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue580Test$2.class,15588,14765,14763,Buildandanalyze,Buildandanalyze,Buildandanalyze
+141,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue580Test$1.class,15585,14761,14759,Buildandanalyze,Buildandanalyze,Buildandanalyze
+142,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue900Test.class,15536,14753,14751,Buildandanalyze,Buildandanalyze,Buildandanalyze
+143,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue900Test$2.class,15542,14745,14743,Buildandanalyze,Buildandanalyze,Buildandanalyze
+144,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue900Test$1.class,15539,14741,14739,Buildandanalyze,Buildandanalyze,Buildandanalyze
+145,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/example/AutobahnClientTest.class,15348,14737,14735,Buildandanalyze,Buildandanalyze,Buildandanalyze
+146,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue890Test.class,15459,14733,14731,Buildandanalyze,Buildandanalyze,Buildandanalyze
+147,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue890Test$MyWebSocketServer.class,15462,14725,14723,Buildandanalyze,Buildandanalyze,Buildandanalyze
+148,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue890Test$2.class,15465,14721,14719,Buildandanalyze,Buildandanalyze,Buildandanalyze
+149,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue890Test$1.class,15468,14717,14715,Buildandanalyze,Buildandanalyze,Buildandanalyze
+150,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue609Test.class,15448,14713,14711,Buildandanalyze,Buildandanalyze,Buildandanalyze
+151,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue609Test$2.class,15451,14709,14707,Buildandanalyze,Buildandanalyze,Buildandanalyze
+152,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue609Test$1.class,15455,14705,14703,Buildandanalyze,Buildandanalyze,Buildandanalyze
+153,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/server/SSLParametersWebSocketServerFactoryTest.class,15765,14701,14699,Buildandanalyze,Buildandanalyze,Buildandanalyze
+154,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/server/SSLParametersWebSocketServerFactoryTest$CustomWebSocketAdapter.class,15768,14693,14691,Buildandanalyze,Buildandanalyze,Buildandanalyze
+155,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/exceptions/IncompleteExceptionTest.class,15679,14686,14684,Buildandanalyze,Buildandanalyze,Buildandanalyze
+156,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue765Test.class,15575,14679,14677,Buildandanalyze,Buildandanalyze,Buildandanalyze
+157,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue765Test$MyWebSocketServer.class,15578,14667,14665,Buildandanalyze,Buildandanalyze,Buildandanalyze
+158,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/server/WebSocketServerTest.class,15755,14663,14661,Buildandanalyze,Buildandanalyze,Buildandanalyze
+159,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/exceptions/InvalidHandshakeExceptionTest.class,15694,14521,14519,Buildandanalyze,Buildandanalyze,Buildandanalyze
+160,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/util/ByteBufferUtilsTest.class,15744,14517,14515,Buildandanalyze,Buildandanalyze,Buildandanalyze
+161,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/client/SchemaCheckTest.class,15700,14510,14508,Buildandanalyze,Buildandanalyze,Buildandanalyze
+162,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/misc/OpeningHandshakeRejectionTest$2.class,15410,14777,14775,Buildandanalyze,Buildandanalyze,Buildandanalyze
+163,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/framing/CloseFrameTest.class,15381,14365,14363,Buildandanalyze,Buildandanalyze,Buildandanalyze
+164,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/framing/BinaryFrameTest.class,15387,14361,14359,Buildandanalyze,Buildandanalyze,Buildandanalyze
+165,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/misc/OpeningHandshakeRejectionTest.class,15407,14781,14779,Buildandanalyze,Buildandanalyze,Buildandanalyze
+166,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue732Test.class,15650,14351,14349,Buildandanalyze,Buildandanalyze,Buildandanalyze
+167,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue732Test$2.class,15656,14347,14345,Buildandanalyze,Buildandanalyze,Buildandanalyze
+168,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue732Test$1.class,15653,14343,14341,Buildandanalyze,Buildandanalyze,Buildandanalyze
+169,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/exceptions/LimitExceededExceptionTest.class,15685,14339,14337,Buildandanalyze,Buildandanalyze,Buildandanalyze
+170,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue825Test.class,15490,14332,14330,Buildandanalyze,Buildandanalyze,Buildandanalyze
+171,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue825Test$MyWebSocketServer.class,15493,14328,14326,Buildandanalyze,Buildandanalyze,Buildandanalyze
+172,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue825Test$1.class,15496,14324,14322,Buildandanalyze,Buildandanalyze,Buildandanalyze
+173,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue834Test.class,15659,14320,14318,Buildandanalyze,Buildandanalyze,Buildandanalyze
+174,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/example/AutobahnSSLServerTest.class,15277,14306,14304,Buildandanalyze,Buildandanalyze,Buildandanalyze
+175,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue598Test$1.class,15629,14789,14787,Buildandanalyze,Buildandanalyze,Buildandanalyze
+176,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/util/Base64Test.class,15740,14293,14291,Buildandanalyze,Buildandanalyze,Buildandanalyze
+177,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue598Test$2.class,15626,14793,14791,Buildandanalyze,Buildandanalyze,Buildandanalyze
+178,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue855Test.class,15481,14283,14281,Buildandanalyze,Buildandanalyze,Buildandanalyze
+179,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue855Test$2.class,15487,14279,14277,Buildandanalyze,Buildandanalyze,Buildandanalyze
+180,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue855Test$1.class,15484,14275,14273,Buildandanalyze,Buildandanalyze,Buildandanalyze
+181,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue598Test.class,15623,14797,14795,Buildandanalyze,Buildandanalyze,Buildandanalyze
+182,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/exceptions/IncompleteHandshakeExceptionTest.class,15676,14804,14802,Buildandanalyze,Buildandanalyze,Buildandanalyze
+183,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue962Test.class,15512,14256,14254,Buildandanalyze,Buildandanalyze,Buildandanalyze
+184,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue962Test$2.class,15521,14252,14250,Buildandanalyze,Buildandanalyze,Buildandanalyze
+185,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/server/DefaultWebSocketServerFactoryTest$CustomWebSocketAdapter.class,15761,14383,14381,Buildandanalyze,Buildandanalyze,Buildandanalyze
+186,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/server/DefaultWebSocketServerFactoryTest.class,15758,14391,14389,Buildandanalyze,Buildandanalyze,Buildandanalyze
+187,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue677Test.class,15524,14454,14452,Buildandanalyze,Buildandanalyze,Buildandanalyze
+188,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue666Test.class,15426,14494,14492,Buildandanalyze,Buildandanalyze,Buildandanalyze
+189,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue666Test$3.class,15432,14490,14488,Buildandanalyze,Buildandanalyze,Buildandanalyze
+190,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue666Test$2.class,15435,14486,14484,Buildandanalyze,Buildandanalyze,Buildandanalyze
+191,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue666Test$1.class,15429,14482,14480,Buildandanalyze,Buildandanalyze,Buildandanalyze
+192,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue997Test.class,15439,14478,14476,Buildandanalyze,Buildandanalyze,Buildandanalyze
+193,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue997Test$SSLWebSocketServer.class,15442,14474,14472,Buildandanalyze,Buildandanalyze,Buildandanalyze
+194,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue997Test$SSLWebSocketClient.class,15445,14470,14468,Buildandanalyze,Buildandanalyze,Buildandanalyze
+195,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/extensions/CompressionExtensionTest.class,15666,14466,14464,Buildandanalyze,Buildandanalyze,Buildandanalyze
+196,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue677Test$3.class,15527,14450,14448,Buildandanalyze,Buildandanalyze,Buildandanalyze
+197,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1142Test$1.class,15556,14395,14393,Buildandanalyze,Buildandanalyze,Buildandanalyze
+198,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue677Test$2.class,15533,14446,14444,Buildandanalyze,Buildandanalyze,Buildandanalyze
+199,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue677Test$1.class,15530,14442,14440,Buildandanalyze,Buildandanalyze,Buildandanalyze
+200,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/exceptions/InvalidFrameExceptionTest.class,15682,14438,14436,Buildandanalyze,Buildandanalyze,Buildandanalyze
+201,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue661Test.class,15632,14431,14429,Buildandanalyze,Buildandanalyze,Buildandanalyze
+202,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue661Test$2.class,15638,14427,14425,Buildandanalyze,Buildandanalyze,Buildandanalyze
+203,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue661Test$1.class,15635,14423,14421,Buildandanalyze,Buildandanalyze,Buildandanalyze
+204,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue879Test.class,15592,14419,14417,Buildandanalyze,Buildandanalyze,Buildandanalyze
+205,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue879Test$SimpleClient.class,15595,14415,14413,Buildandanalyze,Buildandanalyze,Buildandanalyze
+206,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1142Test.class,15546,14407,14405,Buildandanalyze,Buildandanalyze,Buildandanalyze
+207,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1142Test$MyWebSocketServer.class,15550,14403,14401,Buildandanalyze,Buildandanalyze,Buildandanalyze
+208,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue1142Test$2.class,15553,14399,14397,Buildandanalyze,Buildandanalyze,Buildandanalyze
+209,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/protocols/ProtocolTest.java,13811,9395,9393,Buildandanalyze,uses-checkout,uses-checkout
+210,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue855Test.java,13622,9338,9336,Buildandanalyze,uses-checkout,uses-checkout
+211,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue764Test.class,15641,14900,14898,Buildandanalyze,Buildandanalyze,Buildandanalyze
+212,/home/runner/work/Java-WebSocket/Java-WebSocket/pom.xml,10137,8657,8655,Buildandanalyze,uses-checkout,uses-checkout
+213,/home/runner/work/Java-WebSocket/Java-WebSocket/.github/workflows/script.py,52836,8553,8551,finished,uses-checkout,uses-checkout
+214,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/misc/OpeningHandshakeRejectionTest.java,13778,9380,9378,Buildandanalyze,uses-checkout,uses-checkout
+215,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WrappedByteChannel.java,10449,8801,8799,Buildandanalyze,uses-checkout,uses-checkout
+216,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketServerFactory.java,10596,8797,8795,Buildandanalyze,uses-checkout,uses-checkout
+217,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketListener.java,10509,8793,8791,Buildandanalyze,uses-checkout,uses-checkout
+218,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketFactory.java,10413,8784,8782,Buildandanalyze,uses-checkout,uses-checkout
+219,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocketAdapter.java,10572,8780,8778,Buildandanalyze,uses-checkout,uses-checkout
+220,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/WebSocket.java,10482,8776,8774,Buildandanalyze,uses-checkout,uses-checkout
+221,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/SocketChannelIOHelper.java,10602,8772,8770,Buildandanalyze,uses-checkout,uses-checkout
+222,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/SSLSocketChannel2.java,10557,8768,8766,Buildandanalyze,uses-checkout,uses-checkout
+223,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/AbstractWrappedByteChannel.java,10575,8759,8757,Buildandanalyze,uses-checkout,uses-checkout
+224,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/AbstractWebSocket.java,10527,8755,8751,Buildandanalyze,uses-checkout,uses-checkout
+225,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/client/package-info.java,10467,8816,8814,Buildandanalyze,uses-checkout,uses-checkout
+226,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/NotSendableExceptionTest.java,13823,9196,9194,Buildandanalyze,uses-checkout,uses-checkout
+227,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/exceptions/NotSendableExceptionTest.class,15697,14911,14909,Buildandanalyze,Buildandanalyze,Buildandanalyze
+228,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/framing/TextFrameTest.java,13709,9252,9250,Buildandanalyze,uses-checkout,uses-checkout
+229,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/framing/PongFrameTest.java,13733,9248,9246,Buildandanalyze,uses-checkout,uses-checkout
+230,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/framing/PingFrameTest.java,13736,9244,9242,Buildandanalyze,uses-checkout,uses-checkout
+231,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/framing/FramedataImpl1Test.java,13790,9240,9238,Buildandanalyze,uses-checkout,uses-checkout
+232,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/framing/ContinuousFrameTest.java,13619,9236,9234,Buildandanalyze,uses-checkout,uses-checkout
+233,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/framing/CloseFrameTest.java,13658,9232,9230,Buildandanalyze,uses-checkout,uses-checkout
+234,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/framing/BinaryFrameTest.java,13655,9228,9226,Buildandanalyze,uses-checkout,uses-checkout
+235,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/extensions/PerMessageDeflateExtensionTest.java,13793,9218,9216,Buildandanalyze,uses-checkout,uses-checkout
+236,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/extensions/DefaultExtensionTest.java,13616,9214,9212,Buildandanalyze,uses-checkout,uses-checkout
+237,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/extensions/CompressionExtensionTest.java,13688,9210,9208,Buildandanalyze,uses-checkout,uses-checkout
+238,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/WebsocketNotConnectedExceptionTest.java,13631,9200,9198,Buildandanalyze,uses-checkout,uses-checkout
+239,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/LimitExceededExceptionTest.java,13646,9192,9190,Buildandanalyze,uses-checkout,uses-checkout
+240,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/drafts/package-info.java,10473,8832,8830,Buildandanalyze,uses-checkout,uses-checkout
+241,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/InvalidHandshakeExceptionTest.java,13706,9188,9186,Buildandanalyze,uses-checkout,uses-checkout
+242,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/InvalidFrameExceptionTest.java,13682,9184,9182,Buildandanalyze,uses-checkout,uses-checkout
+243,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/InvalidEncodingExceptionTest.java,13742,9180,9178,Buildandanalyze,uses-checkout,uses-checkout
+244,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/InvalidDataExceptionTest.java,13805,9176,9174,Buildandanalyze,uses-checkout,uses-checkout
+245,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/IncompleteHandshakeExceptionTest.java,13787,9172,9170,Buildandanalyze,uses-checkout,uses-checkout
+246,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/IncompleteExceptionTest.java,13754,9168,9166,Buildandanalyze,uses-checkout,uses-checkout
+247,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/example/AutobahnServerTest.java,13625,9158,9156,Buildandanalyze,uses-checkout,uses-checkout
+248,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/example/AutobahnSSLServerTest.java,13634,9154,9152,Buildandanalyze,uses-checkout,uses-checkout
+249,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/client/SchemaCheckTest.java,13700,9133,9131,Buildandanalyze,uses-checkout,uses-checkout
+250,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/client/HeadersTest.java,13802,9129,9127,Buildandanalyze,uses-checkout,uses-checkout
+251,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/client/AttachmentTest.java,13607,9125,9123,Buildandanalyze,uses-checkout,uses-checkout
+252,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/AllTests.java,13667,9104,9100,Buildandanalyze,uses-checkout,uses-checkout
+253,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue1142Test.java,13673,9262,9260,Buildandanalyze,uses-checkout,uses-checkout
+254,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue1160Test.java,13721,9266,9264,Buildandanalyze,uses-checkout,uses-checkout
+255,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue1203Test.java,13739,9270,9268,Buildandanalyze,uses-checkout,uses-checkout
+256,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue256Test.java,13730,9274,9272,Buildandanalyze,uses-checkout,uses-checkout
+257,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue997Test.java,13691,9362,9360,Buildandanalyze,uses-checkout,uses-checkout
+258,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue962Test.java,13613,9358,9356,Buildandanalyze,uses-checkout,uses-checkout
+259,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue941Test.java,13598,9354,9352,Buildandanalyze,uses-checkout,uses-checkout
+260,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue900Test.java,13769,9350,9348,Buildandanalyze,uses-checkout,uses-checkout
+261,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue890Test.java,13763,9346,9344,Buildandanalyze,uses-checkout,uses-checkout
+262,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue879Test.java,13676,9342,9340,Buildandanalyze,uses-checkout,uses-checkout
+263,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/misc/OpeningHandshakeRejectionTest$1.class,15879,14773,14771,Buildandanalyze,Buildandanalyze,Buildandanalyze
+264,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue847Test.java,13799,9334,9332,Buildandanalyze,uses-checkout,uses-checkout
+265,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue834Test.java,13640,9330,9328,Buildandanalyze,uses-checkout,uses-checkout
+266,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue825Test.java,13643,9326,9324,Buildandanalyze,uses-checkout,uses-checkout
+267,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue811Test.java,13715,9322,9320,Buildandanalyze,uses-checkout,uses-checkout
+268,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue765Test.java,13751,9318,9316,Buildandanalyze,uses-checkout,uses-checkout
+269,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue764Test.java,13817,9314,9312,Buildandanalyze,uses-checkout,uses-checkout
+270,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue732Test.java,13649,9310,9308,Buildandanalyze,uses-checkout,uses-checkout
+271,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue713Test.java,13724,9306,9304,Buildandanalyze,uses-checkout,uses-checkout
+272,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue677Test.java,13685,9302,9300,Buildandanalyze,uses-checkout,uses-checkout
+273,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue666Test.java,13694,9298,9296,Buildandanalyze,uses-checkout,uses-checkout
+274,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue661Test.java,13679,9294,9292,Buildandanalyze,uses-checkout,uses-checkout
+275,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue621Test.java,13712,9290,9288,Buildandanalyze,uses-checkout,uses-checkout
+276,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue609Test.java,13760,9286,9284,Buildandanalyze,uses-checkout,uses-checkout
+277,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue598Test.java,13784,9282,9280,Buildandanalyze,uses-checkout,uses-checkout
+278,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/Issue580Test.java,13775,9278,9276,Buildandanalyze,uses-checkout,uses-checkout
+279,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/package-info.java,10395,9095,9093,Buildandanalyze,uses-checkout,uses-checkout
+280,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/NamedThreadFactory.java,10494,9091,9089,Buildandanalyze,uses-checkout,uses-checkout
+281,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/Charsetfunctions.java,10419,9087,9085,Buildandanalyze,uses-checkout,uses-checkout
+282,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/NotSendableException.java,10617,8892,8890,Buildandanalyze,uses-checkout,uses-checkout
+283,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/ContinuousFrame.java,10593,8946,8944,Buildandanalyze,uses-checkout,uses-checkout
+284,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/CloseFrame.java,10518,8942,8940,Buildandanalyze,uses-checkout,uses-checkout
+285,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/package-info.java,10569,8926,8924,Buildandanalyze,uses-checkout,uses-checkout
+286,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/IExtension.java,10623,8922,8920,Buildandanalyze,uses-checkout,uses-checkout
+287,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/ExtensionRequestData.java,10584,8918,8916,Buildandanalyze,uses-checkout,uses-checkout
+288,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/DefaultExtension.java,10422,8914,8912,Buildandanalyze,uses-checkout,uses-checkout
+289,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/package-info.java,10521,8904,8902,Buildandanalyze,uses-checkout,uses-checkout
+290,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/WrappedIOException.java,10440,8900,8898,Buildandanalyze,uses-checkout,uses-checkout
+291,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/WebsocketNotConnectedException.java,10566,8896,8894,Buildandanalyze,uses-checkout,uses-checkout
+292,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/LimitExceededException.java,10503,8888,8886,Buildandanalyze,uses-checkout,uses-checkout
+293,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/util/ByteBufferUtils.java,10479,9083,9081,Buildandanalyze,uses-checkout,uses-checkout
+294,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/InvalidHandshakeException.java,10611,8884,8882,Buildandanalyze,uses-checkout,uses-checkout
+295,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/InvalidFrameException.java,10470,8880,8878,Buildandanalyze,uses-checkout,uses-checkout
+296,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/InvalidEncodingException.java,10608,8876,8874,Buildandanalyze,uses-checkout,uses-checkout
+297,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/InvalidDataException.java,10431,8872,8870,Buildandanalyze,uses-checkout,uses-checkout
+298,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/IncompleteHandshakeException.java,10554,8868,8866,Buildandanalyze,uses-checkout,uses-checkout
+299,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/package-info.java,10524,8858,8856,Buildandanalyze,uses-checkout,uses-checkout
+300,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/Role.java,10578,8854,8852,Buildandanalyze,uses-checkout,uses-checkout
+301,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/ReadyState.java,10392,8850,8848,Buildandanalyze,uses-checkout,uses-checkout
+302,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/Opcode.java,10515,8846,8844,Buildandanalyze,uses-checkout,uses-checkout
+303,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/HandshakeState.java,10542,8842,8840,Buildandanalyze,uses-checkout,uses-checkout
+304,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/ControlFrame.java,10407,8950,8948,Buildandanalyze,uses-checkout,uses-checkout
+305,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/DataFrame.java,10563,8954,8952,Buildandanalyze,uses-checkout,uses-checkout
+306,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/Framedata.java,10620,8958,8956,Buildandanalyze,uses-checkout,uses-checkout
+307,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/ServerHandshake.java,10545,9012,9010,Buildandanalyze,uses-checkout,uses-checkout
+308,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/package-info.java,10476,9071,9069,Buildandanalyze,uses-checkout,uses-checkout
+309,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/SSLParametersWebSocketServerFactory.java,10536,9062,9060,Buildandanalyze,uses-checkout,uses-checkout
+310,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/DefaultWebSocketServerFactory.java,10425,9058,9056,Buildandanalyze,uses-checkout,uses-checkout
+311,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/DefaultSSLWebSocketServerFactory.java,10401,9054,9052,Buildandanalyze,uses-checkout,uses-checkout
+312,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/protocols/package-info.java,10458,9044,9042,Buildandanalyze,uses-checkout,uses-checkout
+313,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/protocols/Protocol.java,10512,9040,9038,Buildandanalyze,uses-checkout,uses-checkout
+314,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/interfaces/package-info.java,10539,9030,9028,Buildandanalyze,uses-checkout,uses-checkout
+315,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/package-info.java,10416,9020,9018,Buildandanalyze,uses-checkout,uses-checkout
+316,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/FramedataImpl1.java,10533,8962,8960,Buildandanalyze,uses-checkout,uses-checkout
+317,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/ServerHandshakeBuilder.java,10500,9016,9014,Buildandanalyze,uses-checkout,uses-checkout
+318,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/HandshakedataImpl1.java,10434,9008,9006,Buildandanalyze,uses-checkout,uses-checkout
+319,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/Handshakedata.java,10488,9004,9002,Buildandanalyze,uses-checkout,uses-checkout
+320,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/HandshakeImpl1Server.java,10605,9000,8998,Buildandanalyze,uses-checkout,uses-checkout
+321,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/HandshakeImpl1Client.java,10452,8996,8994,Buildandanalyze,uses-checkout,uses-checkout
+322,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/HandshakeBuilder.java,10485,8992,8990,Buildandanalyze,uses-checkout,uses-checkout
+323,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/ClientHandshakeBuilder.java,10581,8988,8986,Buildandanalyze,uses-checkout,uses-checkout
+324,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/package-info.java,10464,8978,8976,Buildandanalyze,uses-checkout,uses-checkout
+325,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/TextFrame.java,10599,8974,8972,Buildandanalyze,uses-checkout,uses-checkout
+326,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/PongFrame.java,10530,8970,8968,Buildandanalyze,uses-checkout,uses-checkout
+327,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/PingFrame.java,10548,8966,8964,Buildandanalyze,uses-checkout,uses-checkout
+328,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue580Test.class,15582,14769,14767,Buildandanalyze,Buildandanalyze,Buildandanalyze
+329,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/autobahn/AutobahnServerResultsTest.class,15404,14371,-1,Buildandanalyze,Buildandanalyze,Not provided
+330,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/framing/BinaryFrame.java,10491,8938,-1,Buildandanalyze,uses-checkout,Not provided
+331,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/issues/AllIssueTests.java,13727,9258,-1,Buildandanalyze,uses-checkout,Not provided
+332,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/framing/AllFramingTests.java,13772,9224,-1,Buildandanalyze,uses-checkout,Not provided
+333,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/extensions/AllExtensionTests.java,13820,9206,-1,Buildandanalyze,uses-checkout,Not provided
+334,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/exceptions/AllExceptionsTests.java,13697,9164,-1,Buildandanalyze,uses-checkout,Not provided
+335,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/example/AutobahnClientTest.java,13766,9150,-1,Buildandanalyze,uses-checkout,Not provided
+336,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/drafts/AllDraftTests.java,13610,9139,-1,Buildandanalyze,uses-checkout,Not provided
+337,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/client/AllClientTests.java,13781,9121,-1,Buildandanalyze,uses-checkout,Not provided
+338,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/server/CustomSSLWebSocketServerFactory.java,10404,9050,-1,Buildandanalyze,uses-checkout,Not provided
+339,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/protocols/IProtocol.java,10443,9036,-1,Buildandanalyze,uses-checkout,Not provided
+340,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/interfaces/ISSLChannel.java,10398,9026,-1,Buildandanalyze,uses-checkout,Not provided
+341,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/handshake/ClientHandshake.java,10506,8984,-1,Buildandanalyze,uses-checkout,Not provided
+342,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/permessage_deflate/PerMessageDeflateExtension.java,10461,8932,-1,Buildandanalyze,uses-checkout,Not provided
+343,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/extensions/CompressionExtension.java,10455,8910,-1,Buildandanalyze,uses-checkout,Not provided
+344,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/exceptions/IncompleteException.java,10437,8864,-1,Buildandanalyze,uses-checkout,Not provided
+345,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/enums/CloseHandshakeType.java,10497,8838,-1,Buildandanalyze,uses-checkout,Not provided
+346,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/drafts/Draft.java,10560,8822,-1,Buildandanalyze,uses-checkout,Not provided
+347,/home/runner/work/Java-WebSocket/Java-WebSocket/src/main/java/org/java_websocket/client/DnsResolver.java,10590,8807,-1,Buildandanalyze,uses-checkout,Not provided
+348,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/misc/AllMiscTests.java,13637,9376,-1,Buildandanalyze,uses-checkout,Not provided
+349,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/protocols/AllProtocolTests.java,13652,9386,-1,Buildandanalyze,uses-checkout,Not provided
+350,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/server/AllServerTests.java,13745,9401,-1,Buildandanalyze,uses-checkout,Not provided
+351,/home/runner/work/Java-WebSocket/Java-WebSocket/src/test/java/org/java_websocket/util/Base64Test.java,13628,9427,-1,Buildandanalyze,uses-checkout,Not provided
+352,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/exceptions/WebsocketNotConnectedExceptionTest.class,15691,14302,-1,Buildandanalyze,Buildandanalyze,Not provided
+353,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/example/AutobahnServerTest.class,15372,14289,-1,Buildandanalyze,Buildandanalyze,Not provided
+354,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/framing/ContinuousFrameTest.class,15390,14271,-1,Buildandanalyze,Buildandanalyze,Not provided
+355,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/extensions/DefaultExtensionTest.class,15663,14265,-1,Buildandanalyze,Buildandanalyze,Not provided
+356,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/client/AttachmentTest$1.class,15719,14226,-1,Buildandanalyze,Buildandanalyze,Not provided
+357,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/server/CustomSSLWebSocketServerFactoryTest$CustomWebSocketAdapter.class,15751,14208,-1,Buildandanalyze,Buildandanalyze,Not provided
+358,/home/runner/work/Java-WebSocket/Java-WebSocket/target/test-classes/org/java_websocket/issues/Issue941Test$1.class,15419,14188,-1,Buildandanalyze,Buildandanalyze,Not provided
+359,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/extensions/permessage_deflate/PerMessageDeflateExtension.class,14109,10955,-1,Buildandanalyze,Buildandanalyze,Not provided
+360,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/util/Charsetfunctions.class,15805,10897,-1,Buildandanalyze,Buildandanalyze,Not provided
+361,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/protocols/IProtocol.class,15366,10851,-1,Buildandanalyze,Buildandanalyze,Not provided
+362,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/framing/Framedata.class,15304,10829,-1,Buildandanalyze,Buildandanalyze,Not provided
+363,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/exceptions/InvalidDataException.class,15332,10823,-1,Buildandanalyze,Buildandanalyze,Not provided
+364,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/handshake/ClientHandshake.class,15329,10813,-1,Buildandanalyze,Buildandanalyze,Not provided
+365,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/drafts/Draft.class,15322,10775,-1,Buildandanalyze,Buildandanalyze,Not provided
+366,/home/runner/work/Java-WebSocket/Java-WebSocket/target/classes/org/java_websocket/enums/ReadyState.class,15363,10741,-1,Buildandanalyze,Buildandanalyze,Not provided
